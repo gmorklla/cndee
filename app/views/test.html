@@ -1,0 +1,42 @@
+<div class="row marketing">
+  <div class="col-md-12 s1">
+    <div class="row saludRow">
+      <ng-include src="'views/redes.html'"></ng-include>     
+      <div class="col-md-12 saludEmocional">
+        <h1 class="hidden-xs hidden-sm">Test</h1>
+        <img class="hidden-xs hidden-sm" src="images/headsLine-md.png" alt="">
+        <p class="hidden-md hidden-lg"><img src="images/headsLine-xs.png" alt=""></p>
+      </div>
+      <div class="col-md-12 hidden-md hidden-lg titleInteriores-xs">
+        <h1>Test</h1>
+        <p class="hidden-md hidden-lg"><img src="images/headsLine-xs.png" alt=""></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-12 saludBtns">
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group" dir-paginate="test in tests | itemsPerPage: cuantos" pagination-id="testItems" >
+        <button type="button" class="btn btn-default" ng-click="grabaTitulo(test.titulo)" ui-sref="test.cuestionario({ testId: test.url })">
+          <span>{{test.titulo}}</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <dir-pagination-controls class="paginacionSalud col-md-12 col-sm-12 col-xs-12" pagination-id="testItems" max-size="5"></dir-pagination-controls>  
+
+  <div class="col-md-12 saludJum">
+    <div class="jumbotron">
+      <div class="container">
+        <p style="text-align:left;">
+        	Los siguientes cuestionarios han sido diseñados para identificar actitudes o síntomas que se presentan en los diversos trastornos emocionales, así como para identificar también actitudes que puedan provocar conflictos con la pareja y la familia.<br><br>
+        	El objetivo de realizar dichos cuestionarios es obtener una valoración previa o pre - diagnóstico, a partir del cual nuestros usuarios puedan tomar acción, y buscar ayuda profesional, para prevenir el desarrollo de las enfermedades emocionales.<br><br>
+        	A continuación aparecen los cuestionarios; elige el que desees resolver y responde con la mayor honestidad posible a las preguntas que aparecerán; envía tu respuesta, y nuestros psicólogos expertos te responderán a la brevedad vía correo electrónico, te enviarán tus resultados, y te informarán sobre el tipo de tratamiento recomendado así como de los diversos centros de tratamiento sugeridos, cerca de tu localidad y de acuerdo a tu presupuesto.
+        </p>
+      </div>
+    </div>
+
+  </div>  
+ 
+</div>

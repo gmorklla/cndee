@@ -1,0 +1,109 @@
+[
+	{
+		"pregunta": "Reconozco mis capacidades y limitaciones",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Respeto y me valoro a mí mismo de la misma manera en que lo hago con los demás",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Valoro mis logros, habilidades y cualidades",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Defiendo y respeto mis juicios, creencias, valores, gustos e ideas",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuido mi cuerpo y respeto mis  horarios de comidas de dormir",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Actúo de acuerdo a lo que pienso y siento",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	}, {
+		"pregunta": "Tomo decisiones de acuerdo a mis valores y principios",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me fijo objetivos y metas",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me hago responsable de las decisiones que tomo y de sus posibles consecuencias",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Soy flexible y adaptable",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Expreso lo que necesito decir de manera respetuosa",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Soy capaz de marcar límites y de defenderme sin agredir a los demás",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	}, {
+		"pregunta": "Acepto mis sentimientos así como los de los demás",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Expreso mi enojo sin lastimar, ofender o manipular a los demás",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Resuelvo los problemas negociando y conciliando",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "La vida para mí es una oportunidad de aprendizaje continuo",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Soy optimista y positivo",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Reflexiono, practico algún deporte y descanso",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	}, {
+		"pregunta": "Convivo armónicamente con la familia y la comunidad",
+		"numero": "19",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Realizo actividades recreativas, culturales y sociales",
+		"numero": "20",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Disfruto de mi vida cotidiana",
+		"numero": "21",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Agradezco a la vida los regalos que me ha dado",
+		"numero": "22",
+		"respuestas": "trueFalse"
+	}
+]

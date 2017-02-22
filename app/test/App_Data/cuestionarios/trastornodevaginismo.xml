@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>¿Cada ves que intentas tener una relación sexual te es imposible lograr la penetración?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿La imposibilidad de la penetración se ha presentado los últimos seis meses?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Consigues el orgasmo por estimulación manual, aún sin haber penetración?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Ha dejado de menstruar?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>En la educación que has recibido ¿no se hablaba de sexo por considerarlo como algo prohibido, "malo" o pecaminoso?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando has intentado tener una relación sexual, pasa por tu mente la idea de poder quedar embarazada o adquirir alguna infección de transmisión sexual?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿El miedo a imaginarte que te puede doler el tener una relación sexual hace que desistas de hacerlo?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Presentas algún fluido, comezón, ardor, así como verrugas o ampulas en la entrada de la vagina o en los labios mayores o menores?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Consumes algún tipo de medicamento o droga?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Has sido sometida a alguna cirugía que involucre, la vagina, útero, ovarios o trompas de Falopio?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

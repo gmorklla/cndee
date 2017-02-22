@@ -1,0 +1,92 @@
+[
+	{
+		"pregunta": "Ante una adversidad, ¿todos los miembros de la familia cooperamos para enfrentarla?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Cualquier persona de la familia puede expresas su punto de vista?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Existe la confianza para hablar de nuestros sentimientos?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando tenemos conflictos, ¿podemos dialogar para resolverlos?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando algunas personas en la familia quieren tener una conversación privada, ¿lo hacen sin ningún problema?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Conocemos las metas laborales o profesionales de los miembros de la familia?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "cuando alguien rompe las reglas de la casa, ¿la sanción es acorde a lo previamente establecido?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Podemos hablar de nuestros problemas personales?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Podemos expresar abiertamente el enojo?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Utilizamos los gritos, insultos o golpes para resolver los problemas",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Hay libertad para decidir lo que hará cada uno en su tiempo libre?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Las responsabilidades están distribuidas en forma equitativa?",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando alguien está en desacuerdo, ¿suele decirlo directamente?",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando alguien se 'estanca', en la escuela o en el trabajo, ¿tratamos de impulsarlo para que se forje nuevas metas?",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Si alguien se siente triste, 'puede platicarlo con los demás?",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Es difícil que dejemos un problema sin tratar de resolverlo",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Respetamos los gustos e intereses de cada integrante",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Hay flexibilidad en las reglas?",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	}
+]

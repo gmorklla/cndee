@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>Busco la aprobación de otras personas para tomar decisiones.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He pensado en ir a terapia para que los demás cambien</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me es difícil perdonar y constantementevivo atormentado con el rencor que siento sobre el pasado.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Mi relación con los demás (pareja, hijos, compañeros de trabajo, amigos) me produce angustia o culpa en lugar de paz y amor.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>En mis relaciones con los demás busco una figura materna o paterna que me de afecto</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Trato de controlar a las personas a través de retirarles mi afecto o producir sentimientos de culpa, amenazar, manipular o dominar.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Siento que los demás (pareja, hijos, familia, amigos) llenan mis vacíos.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me siento atacado y me pongo a la defensiva cuando me doy cuenta que los demás Me critican o juzgan mi conducta.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Para mi es necesario tener el control de lo que sucede en todo mi entorno.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Tengo dificultad para relajarme o divertirme.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me cuesta trabajo recibir elogios o cumplidos.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He permitido que alguien abuse física o emocionalmente de mí.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He abusado física o emocionalmente de alguien.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Dejo de hacer mis rutinas abruptamente porque estoy molesto(a) con alguien.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

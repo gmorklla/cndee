@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+  <pregunta>
+    <texto>El niño presenta constantes pesadillas en donde sueña que algo malo le sucede a sus  padres.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño llora cada que va a la escuela porque no quiere dejar a sus padres.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño no quiere dormirse a menos que este alguno de los padres con él.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Se queja constantemente de tener dolor de cabeza, estomago, mareos o nauseas cuando tiene que estar lejos de sus padres.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño  lleva con estos síntomas más de cuatro semanas.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Al niño se le dificulta jugar con otros niños por miedo a dejar de ver a los padres.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño constantemente habla sobre la posibilidad de que mueran sus padres o seres queridos.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>La edad del chico está entre los seis y 17 años.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Es difícil que el niño respete límites que hay en casa.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_9</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuando el niño no obtiene lo que quiere, llora y hace berrinche.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño ha pasado por la separación de sus padres, accidentes o muerte de algún miembro de la familia.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_11</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño puede quedarse en casa sin llorar siempre y cuando le den lo que él quiere.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_12</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El niño dice ver u oír fantasmas o cree firmemente que tiene poderes que los demás no tienen.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_13</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El chico toma algún medicamento o se sabe que ha probado algún tipo de droga.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_14</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Del colegio le dicen que esta distraído, preocupado y ha bajado sus calificaciones.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_15</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>El chico cree que es vigilado de manera constante por todos y que le quieren hacer daño a él o a sus familiares.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_16</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+</preguntas>
+

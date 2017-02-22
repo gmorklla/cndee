@@ -1,0 +1,16 @@
+<!-- Example row of columns -->
+<div ng-controller="articulosCtrl">
+	<div class="row articulosView" dir-paginate="articulo in articulos | itemsPerPage: 1">
+		<a ui-sref="articulo({ articuloId: articulo.url })">
+			<div class="col-md-5 col-sm-12 col-xs-12">
+			  <div><img ng-src="images/{{articulo.url}}.jpg" alt=""></div>
+			</div>
+			<div class="col-md-7 col-sm-12 col-xs-12 artTxt">
+			  <h2>{{articulo.titulo}}</h2>
+			  <p>{{articulo.entrada}}</p>
+			</div>
+		</a>
+	</div>
+	<p class="hidden-md hidden-lg"><dir-pagination-controls class="paginacion col-md-12 col-sm-12 col-xs-12" max-size="5" boundary-links="false"></dir-pagination-controls></p>
+	<dir-pagination-controls class="paginacion col-md-12 col-sm-12 col-xs-12 hidden-xs hidden-sm" max-size="5" boundary-links="false"></dir-pagination-controls>
+</div>

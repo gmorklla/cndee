@@ -1,0 +1,62 @@
+[
+	{
+		"pregunta": "¿He incrementado el consumo de la droga para conseguir el efecto deseado?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Dejo de hacer mis actividades por ocupar mi tiempo en el consumo de alguna sustancia?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Mi consumo está afectando la imagen que los demás tienen de mi?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Siento remordimiento después de consumirla?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿He tenido que vender mis cosas para comprar la droga?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿He tenido problemas económicos desde que consumo?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Mi forma de consumir ha puesto en riesgo mi escuela, trabajo o familia?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Alguna vez he perdido la memoria después de haber consumido la droga?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Continúo consumiendo pese a que presento problemas físicos o emocionales?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Al dejar de consumir empiezo a sentir angustia, ansiedad o taquicardia?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Consumo más droga para evitar los efectos físicos como ansiedad, taquicardia, vómito, debilidad o fatiga?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Creo que al usar la droga mi suerte o mis capacidades 'mejoran'",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	}
+]

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>¿La frecuencia con la que consigues el orgasmo en tus relaciones sexuales es satisfactoria para tí?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Independientemente del gusto y deseo que sientas por tu pareja, se te dificulta conseguir un orgasmo?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Solamente consigues el orgasmo masturbándote?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿La dificultad para conseguir un orgasmo se ha presentado en todas tus parejas?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>En la educación que has recibido ¿Hablar de sexo se considera como algo prohibido, "malo" o pecaminoso?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Si en ocasiones recurriste a la masturbación te sentías "mal" o avergonzado(a) después?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Sientes dolor en la penetración?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Te han detectado alguna enfermedad o trastorno físico o mental?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Consumes algún tipo de droga o medicamento?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Te han practicado alguna cirugía recientemente o tratamiento que involucre los órganos sexuales?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

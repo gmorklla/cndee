@@ -1,0 +1,460 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+testX
+</name>
+</assembly>
+<members>
+<member name="M:testX.Utilerias.ObtenMensajeDeEvaluacion(System.Int16,System.String)">
+	<summary>
+ Funcion que obtiene el mensaje correspondiente de acuerdo a la
+ calificacion obtenidad en el cuestionario.
+ 
+ El mensaje es obtenido desde el archivo web.config.
+ </summary>
+	<param name="numcuestionario">Numero de cuestionario a calificar</param>
+	<param name="calificacion">Calificacion obtenida en ese cuestionario</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:testX.Utilerias.GeneraBodyMail(System.String,System.String,System.String,System.Int16,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Funcion que genera el cuerpo del mail, metiendo en una tabla
+ los datos personales del usuario, asi como, el mensaje obtenido de
+ la evaluacion.
+ </summary>
+	<param name="_strTituloCuestionario">Titulo del cuestionario</param>
+	<param name="_strNombre">Nombre del usuario</param>
+	<param name="_strEmail">Email del usuario</param>
+	<param name="_intEdad">Edad del usuario</param>
+	<param name="_strSexo">Sexo del usuario</param>
+	<param name="_strTelefono">Telefono del usuario</param>
+	<param name="_strMensaje">Mensaje obtenido de la evaluacion</param>
+	<param name="_strStyleEncabezado">Estilo para los encabezados</param>
+	<param name="_strStyleContenido">Estilo para el contenido</param>
+	<returns>Tabla generada</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Respuesta.Texto">
+	<summary>
+ Texto de la Respuesta
+ </summary>
+	<value>String</value>
+	<returns>Texto de la Respuesta</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Respuesta.Valor">
+	<summary>
+ Valor de la respuesta
+ </summary>
+	<value>ArrayList</value>
+	<returns>Valor de la respuesta</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraTablaDatosUsuario(System.String)">
+	<summary>
+ Metodo que genera la tabla para pedir datos al usuario
+ </summary>
+	<returns>Tabla de Datos de Usuario</returns>
+	<param name="strNombreCuestionario">Nombre del cuestionario</param>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario3Opciones(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean consten de 3 posibles opciones (A/B/C),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2Opciones(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesEyaculacionPrecoz(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+ SOLO FUNCIONA PARA EL CUESTIONARIO DE TRASTORNO DE EYACULACION PRECOZ
+ 
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesTrastornoDeseoSexual(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+SOLO FUNCIONA PARA EL CUESTIONARIO DE TRASTORNO DEL DESEO SEXUAL
+
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesTrastornoDeEreccion(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+SOLO FUNCIONA PARA EL CUESTIONARIO DE TRASTORNO DE ERECCION
+
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesTrastornosOrgasmicos(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+SOLO FUNCIONA PARA EL CUESTIONARIO DE TRASTORNOS ORGASMICOS
+
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesTrastornoDeDispareunia(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+SOLO FUNCIONA PARA EL CUESTIONARIO DE TRASTORNO DE DISPAREUNIA
+
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesTrastornoDeVaginismo(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+SOLO FUNCIONA PARA EL CUESTIONARIO DE TRASTORNO DE VAGINISMO
+
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesMiHijoNecesitaApoyoPicologico(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+ SOLO FUNCIONA PARA EL CUESTIONARIO: COMO SABER SI MI HIJO NECESITA APOYO PCISOLOGICO
+ 
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="M:testX.ElementosWeb.GeneraCuestionario2OpcionesEzquizofrenia(System.String,System.Int16,System.String,System.String)">
+	<summary>
+ 
+ SOLO FUNCIONA PARA EL CUESTIONARIO: COMO SABER SI MI HIJO NECESITA APOYO PCISOLOGICO
+ 
+ Funcion que genera los elementos HTML necesarios para crear un cuestionario
+ cuyas respuestas sean solo de dos opciones (SI/NO),
+ Empleando la clase PreguntaDAO para la obtencion  de las preguntas
+ con sus respectivas respuestas.
+ </summary>
+	<param name="strRutaXML">nombre del archivo XML a consultar</param>
+	<param name="strEstiloEncabezado">Estilo de los encabezaos</param>
+	<param name="strEstiloPreguntas">Estilo del texto de las preguntas</param>
+	<returns>Estructura HTML del cuestionario generado</returns>
+	<remarks></remarks>
+</member><member name="P:testX.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:testX.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:testX.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:testX.Correo.envia">
+	<summary>
+ Metodo que realiza el envio del email.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:testX.PreguntaDAO.#ctor">
+	<summary>
+ Constructor de la clase
+ </summary>
+	<remarks></remarks>
+</member><member name="M:testX.PreguntaDAO.#ctor(System.String)">
+	<summary>
+ Constructor de la clase
+ </summary>
+	<param name="strRuta">Path del archivo XML</param>
+	<remarks></remarks>
+</member><member name="M:testX.PreguntaDAO.GetPreguntasXML">
+	<summary>
+ Metodo que obtiene las preguntas de un archivo XML,
+ Solo obtiene el texto de las preguntas.
+ </summary>
+	<returns>Collection de preguntas</returns>
+	<remarks></remarks>
+</member><member name="M:testX.PreguntaDAO.GetPreguntasCon3OpcionesXML">
+	<summary>
+ Metodo que obtiene las preguntas de un archivo XML,
+ Solo obtiene el texto de las preguntas.
+ </summary>
+	<returns>Collection de preguntas</returns>
+	<remarks></remarks>
+</member><member name="M:testX.PreguntaDAO.GetPreguntasCon2OpcionesXML">
+	<summary>
+ Metodo que obtiene las preguntas de un archivo XML,
+ Solo obtiene el texto de las preguntas.
+ </summary>
+	<returns>Collection de preguntas</returns>
+	<remarks></remarks>
+</member><member name="P:testX.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:testX.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:testX.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:testX.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:testX.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:testX.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.Nombre">
+	<summary>
+ Nombre del Usuario
+ </summary>
+	<value>String</value>
+	<returns>Nombre del Usuario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.Edad">
+	<summary>
+ Edad del usuario
+ </summary>
+	<value>Int16</value>
+	<returns>Edad del usuario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.Comentarios">
+	<summary>
+ Comentarios del usuario
+ </summary>
+	<value>String</value>
+	<returns>Comentarios del usuario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.Sexo">
+	<summary>
+ Sexo del usuario
+ </summary>
+	<value>String</value>
+	<returns>Sexo del usuario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.Telefono">
+	<summary>
+ Telefono del usuario
+ </summary>
+	<value>String</value>
+	<returns>Telefono del usuario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.MensajeDeEvaluacion">
+	<summary>
+ Mensaje de Evaluacion
+ </summary>
+	<value>String</value>
+	<returns>Mensaje de Evaluacion</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.Evaluacion">
+	<summary>
+ Evaluacion del cuestionario
+ </summary>
+	<value>String</value>
+	<returns>Evaluacion del cuestionario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.CorreoCndee.NumeroCuestionario">
+	<summary>
+ Numero del cuestionario
+ </summary>
+	<value>Int16</value>
+	<returns>Numero del cuestionario</returns>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.#ctor(System.String)">
+	<summary>
+ Constructor:
+ Antes de meter los errores al archivo tenemos que inicializar las variables
+ que seran utilizadas en la creacion del archivo asi como los formatos que seran
+ Utilizados para enviar los errores.
+ 
+ Inicializamos las variables aqui para evitar llamar a un procedimiento (que WEB-A)
+ </summary>
+	<param name="strNameClass">Nombre de la clase de la que proviene el error</param>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.ErrorLog(System.String)">
+	<summary>
+ Metodo:
+ Metodo que realiza la escritura del error en el archivo log
+ </summary>
+	<param name="sErrMsg">Mensaje de error</param>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.debug(System.String)">
+	<summary>
+ debug:
+ Metodo que realiza la escritura del error en el archivo log
+ con Nivel de "DEBUG"
+ </summary>
+	<param name="sErrMsg">Mensaje de error</param>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.errors(System.String)">
+	<summary>
+ errors:
+ Metodo que realiza la escritura del error en el archivo log
+ con Nivel de "ERROR"
+ </summary>
+	<param name="sErrMsg">Mensaje de error</param>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.info(System.String)">
+	<summary>
+ info:
+ Metodo que realiza la escritura del error en el archivo log
+ con Nivel de "INFO"
+ </summary>
+	<param name="sErrMsg">Mensaje de error</param>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.warn(System.String)">
+	<summary>
+ warn:
+ Metodo que realiza la escritura del error en el archivo log
+ con Nivel de "WARNING"
+ </summary>
+	<param name="sErrMsg">Mensaje de error</param>
+	<remarks></remarks>
+</member><member name="M:testX.Logger.fatal(System.String)">
+	<summary>
+ fatal:
+ Metodo que realiza la escritura del error en el archivo log
+ con Nivel de "FATAL"
+ </summary>
+	<param name="sErrMsg">Mensaje de error</param>
+	<remarks></remarks>
+</member><member name="T:testX.Logger">
+	<summary>
+ Clase Maestra que realiza la creacion del archivo log
+ para la aplicacion y el envio de errores. 
+ </summary>
+	<remarks></remarks>
+</member><member name="P:testX.Cuestionario.Titulo">
+	<summary>
+ Texto de la Pregunta
+ </summary>
+	<value>String</value>
+	<returns>Texto de la Pregunta</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Cuestionario.NickUsuario">
+	<summary>
+ Nick Name del usuario que responde al cuestionario
+ </summary>
+	<value>String</value>
+	<returns>Nick Name del usuario que responde al cuestionario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Cuestionario.Sexo">
+	<summary>
+ Sexo de la persona que contesta el cuestionario
+ </summary>
+	<value>String</value>
+	<returns>Sexo de la persona que contesta el cuestionario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Cuestionario.Telefono">
+	<summary>
+ Telefono de la persona que responde el cuestionario
+ </summary>
+	<value>String</value>
+	<returns>Telefono de la persona que responde el cuestionario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Cuestionario.Email">
+	<summary>
+ Email del usuario que responde el cuestionario
+ </summary>
+	<value>String</value>
+	<returns>Email del usuario que responde el cuestionario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Cuestionario.Preguntas">
+	<summary>
+ Preguntas del cuestionario
+ </summary>
+	<value>Pregunta()</value>
+	<returns>Preguntas del cuestionario</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Pregunta.Texto">
+	<summary>
+ Texto de la Pregunta
+ </summary>
+	<value>String</value>
+	<returns>Texto de la Pregunta</returns>
+	<remarks></remarks>
+</member><member name="P:testX.Pregunta.Respuestas">
+	<summary>
+ Respuestas de la pregunta
+ </summary>
+	<value>ArrayList</value>
+	<returns>Respuestas de la pregunta</returns>
+	<remarks></remarks>
+</member><member name="M:testX.TEST_confimacion.EnviaCorreo">
+	<summary>
+ Metodo que recupera los parametros del request
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

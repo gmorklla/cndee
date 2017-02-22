@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CNDEE - Ser Feliz sí se puede</title>
+
+<link rel="stylesheet" href="estilos.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.transit.min.js"></script>
+<script type="text/javascript" src="js/animate.js"></script>
+
+<script type="text/javascript">
+        function preloader(){
+            document.getElementById("loading").style.display = "none";
+            document.getElementById("content").style.display = "block";
+			contacto();
+			todos();
+        }//preloader
+        window.onload = preloader;//confirmacion.aspx
+</script>
+
+<script language="javascript1.2" type="text/javascript" src="../test/js/validaciones.js"></script>
+
+<script>
+
+
+    function sendmailmessage(frm) {
+        var msg = "";
+        var sitio = document.getElementById('hdn_sitio');
+        var asunto = document.getElementById('hdn_asunto');
+        var nombre = document.getElementById('txt_nombre');
+        var email = document.getElementById('txt_email');
+        var telefono = document.getElementById('txt_tel');
+        var estado = document.getElementById('txt_ciudad');
+        var comentarios = document.getElementById('txt_comentarios');
+
+        if (asunto.value == "0") {
+            alert("Debes indicar el Asunto!");
+        } else if (!nombre.value) {
+            alert("Debes proporcionar tu nombre completo!");
+        } else if (!email.value) {
+            alert("Debes proporcionar tu email!");
+        } else if (!validaMail(email.value)) {
+            alert("El email \"" + email.value + "\" no es valido!");
+        } else if (!telefono.value) {
+            alert("Debes proporcionar número telefónico!");
+        } else if (estado.value == "0") {
+            alert("Debes proporcionar la entidad donde vives!");
+        } else if (!comentarios.value) {
+            alert("Debes proporcionar tus comentarios!");
+        } else {
+            frm.action = "http://www.serfelizsisepuede.com.mx/DW_CONTACTANOS/sendmx.aspx";            
+            frm.submit();
+			window.setTimeout(function(){
+				alert("¡Su mensaje se envió correctamente!");
+				frm.reset();
+			},2500);
+            return;
+        }
+    }
+
+
+</script>
+
+<script>
+
+function validaMail(mail) {   
+	var email=/^[A-Za-z0-9][\w-.]+@[A-Za-z0-9]([\w-.]+[A-Za-z0-9]\.)+([A-Za-z]){2,4}$/i;   
+	return(email.test(mail));
+}/*End Function*/
+
+function acceptNum(evt){	   
+	var key = nav4 ? evt.which : evt.keyCode;   
+	return (key <= 13 || (key >= 48 && key <= 57));
+}/*End Function*/
+
+function waitmessage(){
+	var block = document.getElementById("generated");
+	block.innerHTML +=	"<p class='Estilo6'><strong>Espere un momento por favor...</strong>";
+	//block.innerHTML +=	"</p>";document.getElementById("cmd_envia").disabled=true;return;
+}/*End Function*/
+
+</script>
+
+</head>
+
+<body>
+
+<div id="loading"></div>
+
+	<div class="marco" id="content">
+    
+<!-- HEAD ------------------------------------------->    
+    
+    	<div class="head">
+        
+        	<div class="menu">
+                
+                	<div class="sec menu1">INICIO</div>
+                    <div class="sec menu2">NOSOTROS</div>
+                    <div class="sec menu3">SALUD EMOCIONAL</div>
+                    <div class="sec menu4">SEXUALIDAD</div>
+                    <div class="sec menu5">TEST</div>
+                    <div class="sec menu6">CONTACTO</div>
+            
+            </div>
+            
+            <div class="linea"></div>
+            
+            <div class="frameLogo">
+            <div class="frameLogoI">
+            
+            	<a href="index.html"><img class="logo" src="imagenes/logo.png" border="0" /></a>
+                <div class="testimonio">	
+                
+                	<a href="https://www.facebook.com/CNDEE" target="_blank"><div class="facebook"></div></a>
+                
+                </div>
+            
+            </div>
+            </div>
+            
+            <div class="frase"></div>
+        
+        </div>
+        
+<!-- HEAD ------------------------------------------->
+
+<!-- MAIN ------------------------------------------->
+
+		<div class="mainTest" style="background: url(imagenes/backContacto.jpg) no-repeat 0px;">
+        
+        	<div class="testHead" style="background:url(imagenes/contactoHead.png) no-repeat center;"></div>
+            
+            <div class="testFcontacto" style="opacity:0;">
+            
+            	<form id="form1" name="form1" method="post" action="" target="aux-frame">
+					<input type="hidden" value="MEXICO" name="txt_ciudad"  id="txt_ciudad"/>
+					<input type="hidden" value="500" name="hdn_sitio"  id="hdn_sitio"/>
+					<input type="hidden" value="CNDEE" name="hdn_asunto" id="hdn_asunto"/>
+					<iframe id="aux-frame" name="aux-frame" style="display:none;"></iframe>
+                    <div class="formInput">
+                    	<img src="imagenes/label1.png" style="padding-top:13px; float:left;" align="left" />
+                        <input name="txt_nombre" id="txt_nombre" type="text" />
+                    </div>
+                    
+                    <div class="formInput">
+                    	<img src="imagenes/label2.png" style="padding-top:13px; float:left;" align="left" />
+                        <input name="txt_email" id="txt_email" onkeyup="this.value=this.value.toLowerCase()" type="text" />
+                    </div>
+                    
+                    <div class="formInput">
+                    	<img src="imagenes/label3.png" style="padding-top:13px; float:left;" align="left" />
+                        <input name="txt_tel" id="txt_tel" type="text" />
+                    </div>
+                    
+                    
+                    <div class="formInput2">
+                    	<img src="imagenes/label4.png" style="padding-top:13px; float:left;" align="left" />
+                        <img src="imagenes/F.png" style="padding-top:13px; float:left;" align="left" />
+                        <label for="femenino" style="float:left;"><img id="radioFem" src="imagenes/inputR.png" style="padding-top:5px;" onclick="radioBotonesS('F')" /></label>
+                        <input type="radio" id="femenino" name="sexo" value="Femenino" style="float:left;" />
+                        <img src="imagenes/M.png" style="padding-top:13px; float:left;" align="left" />
+                        <label for="masculino" style="float:left;"><img id="radioMas" src="imagenes/inputR.png" style="padding-top:5px;" onclick="radioBotonesS('M')" /></label>
+                        <input type="radio" id="masculino" name="sexo" value="Masculino" style="float:left;" />
+                        <img src="imagenes/label5.png" style="padding-top:13px; padding-left:5px; float:left;" align="left" />
+                        <input name="txt_edad" id="txt_edad" size="5" maxlength="2" />
+                    </div>
+                    <div class="textArea" style="width:306px; height:140px; top:20px; left:80px; background:url(imagenes/textArea.png) center no-repeat;">
+                            
+                            	<textarea name="txt_comentarios" id="txt_comentarios" cols="20" rows="3" style="overflow:hidden; width:278px; height:110px; position:relative; top:20px; left:20px; text-align:justify;" onfocus="if (this.value=='Escribe tu mensaje') this.value='';" onblur="if (this.value=='') this.value='Escribe tu mensaje';">Escribe tu mensaje</textarea>
+                            
+                            </div>
+                            <div class="evaluarBtn" onclick="try{sendmailmessage(document.getElementById('form1'));}catch(e){alert(e.message);}" style="top:30px; left:295px; display:block; background:url(imagenes/enviarBtn.png) no-repeat center;"></div>
+							<div id="waitmesage" style="display:none;"></div>
+                    </form>
+                    </div>
+            
+            <div class="man" id="man"></div>
+            <div class="subMenu" style="top:-318px; opacity:1;">
+            
+            	<ul>
+                
+                	<li style="margin-left:12px;"><a id="sub1"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub2"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub3"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub4"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub5"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub6"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub7"><img src="imagenes/botonI.png" border="0" /></a></li><li><a id="sub8"><img src="imagenes/botonI.png" border="0" /></a></li>
+                
+                </ul>
+                
+           <div class="arrow"></div> 
+           
+           <div class="cuadro" style="top:-475px; left:1024px; background:url(imagenes/cuadro2.png) no-repeat left;">
+           
+           		<p style="width:295px; margin-left:45px; border-bottom:1px solid #cccccc; padding-bottom:5px; padding-top:35px;">Podemos ayudarte ante cualquier problema emocional que se presente, contáctanos:</p>
+                <p style="width:295px; margin-left:45px; padding-top:10px; font-size:12px; color:#5E4C72;">- Lada sin costo: <span>01800 911 6666</span> opción 9</p>
+                <p style="width:295px; margin-left:45px; padding-top:5px; font-size:12px; color:#5E4C72;">- <span>Por Internet</span> (a través de una serie de test)</p>
+           
+           </div>    
+            
+            </div>
+            
+            
+        	
+<!-- TEST ------------------------------------------->            
+            
+            
+            
+            	
+        </div>
+
+<!-- MAIN ------------------------------------------->
+
+<!-- NOTA ------------------------------------------->
+		
+        <div class="notasC">
+        
+        	<iframe style="margin-left:20px; margin-top:4px; float:left;" src="testFrame.html" scrolling="no" frameborder="0" width="748" height="210"></iframe>
+            
+            <div class="simitel">
+            
+                
+            	<img class="simitelHead" src="imagenes/asesoriaHead.png" />
+                <a href="http://www.farmaciasdesimilares.com.mx/simitel.html" target="_blank"><img class="simitelLogo" width="244" height="149" src="imagenes/simitel.png" border="0" /></a>
+                <div class="bubble1"></div>
+                <div class="bubble2"></div>
+            
+            </div>
+        
+        </div>
+
+
+<!-- NOTA ------------------------------------------->
+
+<!-- FOOT ------------------------------------------->
+
+		<div class="footer"><p>© Copyright 2013. Centro Nacional de Diagnóstico para las Enfermedades Emocionales | Aviso legal | Política de privacidad</p></div>
+
+<!-- FOOT ------------------------------------------->
+
+
+    
+    </div>
+
+</body>
+</html>

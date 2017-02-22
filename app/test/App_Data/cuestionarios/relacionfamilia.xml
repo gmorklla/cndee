@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>¿Ante una adversidad, todos los miembros de la familia cooperamos para enfrentarla?</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cualquier persona de la familia tiene la libertad de expresar su punto de vista?</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Tenemos la confianza suficiente para hablar de nuestros sentimientos?</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando tenemos conflictos podemos dialogar para tratar de resolverlos?</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando algunas personas en la familia quieren tener una conversación privada lo hacen sin ningún problema?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Conocemos las metas laborales o profesionales de los miembros de la familia?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando alguien se atreve a romper las reglas de la casa, la sanción es acorde a lo previamente establecido?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Tenemos la posibilidad de hablar de nuestros problemas personales?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Podemos expresar abiertamente el enojo?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Nunca hemos utilizado los gritos, insultos o golpes para resolver los problemas?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Tenemos libertad para decidir lo que hará cada uno en su tiempo libre?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Las tareas y responsabilidades están distribuidas en forma equitativa?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando alguien se "estanca" en la escuela o el trabajo, tratamos de impulsarlo para que se forje nuevas metas?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando alguien está en desacuerdo suele decirlo directamente?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Si alguien se siente triste puede platicarlo a los demás?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Es muy difícil que dejemos pasar un problema sin tratar de resolverlo?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Respetamos los gustos e intereses de cada integrante?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Aunque se suelen respetar las reglas, hay flexibilidad en ellas?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

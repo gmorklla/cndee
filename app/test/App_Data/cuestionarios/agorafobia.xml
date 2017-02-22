@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>Me preocupa salir solo(a) por miedo a perderme o desmayarme.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Mi corazón late de manera tan acelerada que pienso que podría darme un ataque cardiaco y prefiero no salir.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>En ocasiones siento que me falta la respiración y tengo la sensación de que voy a morir.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Los lugares con mucha gente me molestan, me ponen nervioso y con ganas de estar en mi casa.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Preferiría morir para no sentir el miedo que me detiene a salir.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Pienso que mis miedos han limitado mi vida y siento tristeza por ello.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Si necesito ir a lugares concurridos considero necesario que alguien me acompañe.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Con frecuencia tengo insomnio y/o cuando duermo no descanso.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me dicen que exagero mis temores a salir solo y esto me genera más angustia.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Siento que nadie puede ayudarme a superar mis miedos a salir de casa.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He visitado el servicio de urgencias o algún médico por temor a estar enfermo.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>No encuentro una explicación del porqué tengo miedo a salir si antes no era yo así.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Lo peor que me puede suceder es alejarme de un lugar en el que me sienta seguro.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He tenido miedo a desmayarme o volverme loco más de 4 veces en un mes.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

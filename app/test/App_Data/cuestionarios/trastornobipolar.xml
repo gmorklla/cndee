@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>Me he notado extremadamente activo y con mayor seguridad en mí</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Hablo mucho y más rápido de lo habitual</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He sentido una tristeza tan profunda que creo enloquecer.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Hablo mucho, toco diferentes temas y de pronto y sin darme cuenta comienzo a llorar o me entristezco.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He gastado tanto dinero que me ha ocasionado problemas tanto a mí como a mi familia.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>6</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He identificado que tengo un mayor apetito sexual.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He tenido periodos en los que soy más social o extrovertido de lo habitual</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Tengo conductas que los demás identifican como arriesgadas o exageras.</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>6</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)No lo se</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Tengo más energía de lo habitual y necesito dormir poco.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>6</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me entristezco con facilidad ante cosas que creía superadas.</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>6</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)No lo se</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>1</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

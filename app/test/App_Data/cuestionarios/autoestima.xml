@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>Acostumbro siempre complacer a los demás.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>En muchas discusiones salgo perdiendo.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>A veces pienso que no valgo nada.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me dan miedo las adversidades.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Soy incapaz de resolver mis problemas.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Sé que con mi amor puedo hacer que los demás cambien.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Debo soportar callada (o) todo lo malo.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me lastima ser rechazado(a).</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me da miedo estar sola (o).</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Es bueno ser sumiso.</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

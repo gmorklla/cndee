@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "Me responsabilizo de asistir a mis chequeos médicos",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Procuro seguir al pie de la letra las recomendaciones médicas en cuanto a la dieta, ejercicios y toma de medicamentos",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El cuidado de mi salud está primero que las necesidades de los demás",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Suelo visitar a mis amigos o asistir a eventos que me permitan ampliar mi círculo de amistades",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Creo que mis hijos o nietos deben de visitarme cuando puedan o quieran hacerlo, ya que yo puedo hacerme cargo de mi mismo(a)",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Disfruto de mi soledad y empleo mi tiempo en actividades que me gustan",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Busco la forma de seguir activo(a) económicamente para evitar depender de mis hijos o nietos",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Procuro medirme en mis gastos, y buscar las mejores opciones de precio para gastar menos",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Acepto con agrado los cambios físicos que experimenta mi cuerpo como las arrugas, la flacidez, y algunos 'achaques' propios de la edad",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento animado ahora que estoy jubilado(a) por el tiempo que tengo para dedicarme a nuevas actividades recreativas o culturales",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

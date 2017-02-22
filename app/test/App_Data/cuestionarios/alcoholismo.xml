@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>¿He fallado en la responsabilidad de mi trabajo o de mi casa debido a consumir alcohol.?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Sólo cuando bebo me siento a gusto físicamente y emocionalmente?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Bebo para distraerme, para olvidar los problemas o para tranquilizarme?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Después de tomar tengo nauseas, temblores, cansancio, irritabilidad o variabilidad en el estado de animo?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando reduzco la cantidad de alcohol me siento dañado físicamente?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Me he llegado a sentir avergonzado de mi conducta cuando bebo?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿He intentado dejar de beber sin éxito?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿He continuado bebiendo a pesar de que tengo problemas con mi familia y/o amigos?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Siento la necesidad de tomar en una hora específica del día o de la semana?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Me siento cansado o intranquilo cuando no he consumido alcohol?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿He tenido la necesidad de beber a escondidas?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿He sufrido accidentes tras haber ingerido bebidas alcohólicas.?</texto>
+		<respuesta>
+			<texto>Si</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>No</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

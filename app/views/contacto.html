@@ -1,0 +1,136 @@
+<form id="form1" name="form1" class="contacto" novalidate>
+    <div class="articulo">
+        <h1 ng-hide="enviado == 1">Contacto</h1>
+        <h1 ng-hide="enviado == 0">¡Gracias {{username}}!</h1>
+        <hr>
+        <div class="row datosTest" ng-hide="enviado == 0">
+	        <div class="col-md-12 col-sm-4 col-xs-12">
+	        	<img src="images/contacto.jpg" alt="Contacto">
+	            <p>Nos pondremos en contacto contigo a la brevedad.</p>
+	        </div>
+	    </div>
+        <div class="row datosTest" ng-hide="enviado == 1">
+            <div class="col-xs-12">
+                <p>Podemos ayudarte ante cualquier problema emocional que se presente, escríbenos:</p>
+            </div>
+            <!-- Mensajes de error -->
+            <div class="col-xs-12 error" ng-messages="form1.username.$error" ng-if="form1.username.$touched">
+                <div class="bg-danger">
+                    <span ng-message="minlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu nombre es muy corto (Mínimo 3 letras).</span>
+                    <span ng-message="maxlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu nombre es muy largo (Máximo 150 letras).</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu nombres es requerido.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.email.$error" ng-if="form1.email.$touched">
+                <div class="bg-danger">
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu email es requerido.</span>
+                    <span ng-message="email"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Parece que escribiste mal tu email.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.tel.$error" ng-if="form1.tel.$touched">
+                <div class="bg-danger">
+                    <span ng-message="minlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Número de teléfono muy corto (Mínimo 10 números).</span>
+                    <span ng-message="maxlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Número de teléfono muy largo (Máximo 10 números).</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu número de teléfono es requerido.</span>
+                    <span ng-message="tel"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Parece que escribiste mal tu número de teléfono.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.estado.$error" ng-if="form1.estado.$touched">
+                <div class="bg-danger">
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Debes seleccionar tu estado.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.mensaje.$error" ng-if="form1.mensaje.$touched">
+                <div class="bg-danger">
+                    <span ng-message="minlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu mensaje es muy corto (Mínimo 20 letras).</span>
+                    <span ng-message="maxlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu mensaje es muy largo (Máximo 500 letras).</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu mensaje es requerido.</span>
+                </div>
+            </div>
+            <!-- Mensajes de error -->
+            <div class="col-xs-12 col-sm-6 col-md-6" ng-class="{
+                                                  'has-error': form1.username.$touched && form1.username.$invalid,
+                                                  'has-success': form1.username.$touched && !form1.username.$invalid
+                                                }">
+                <input type="text" class="form-control" id="username" name="username" ng-model="username" placeholder="Nombre" ng-minlength="3" ng-maxlength="150" required>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6" ng-class="{ 
+                                                'has-error': form1.email.$touched && form1.email.$invalid,
+                                                'has-success': form1.email.$touched && !form1.email.$invalid
+                                              }">
+                <input class="form-control" id="email" name="email" type="email" placeholder="Email" ng-model="email" required>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <input class="form-control" id="tel" name="tel" type="tel" placeholder="Teléfono a 10 números" ng-model="tel">
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6" ng-class="{
+                                                  'has-error': form1.estado.$touched && form1.estado.$invalid,
+                                                  'has-success': form1.estado.$touched && !form1.estado.$invalid
+                                                }">
+                <select class="select form-control" id="estado" name="estado" ng-model="estado" required>
+                    <option value="">Escoge tu estado</option>
+                    <option value="1">Aguascalientes</option>
+                    <option value="2">Baja California</option>
+                    <option value="3">Baja California Sur</option>
+                    <option value="4">Campeche</option>
+                    <option value="5">Coahuila de Zaragoza</option>
+                    <option value="6">Colima</option>
+                    <option value="7">Chiapas</option>
+                    <option value="8">Chihuahua</option>
+                    <option value="9">Ciudad de México</option>
+                    <option value="10">Durango</option>
+                    <option value="11">Guanajuato</option>
+                    <option value="12">Guerrero</option>
+                    <option value="13">Hidalgo</option>
+                    <option value="14">Jalisco</option>
+                    <option value="15">México</option>
+                    <option value="16">Michoacán de Ocampo</option>
+                    <option value="17">Morelos</option>
+                    <option value="18">Nayarit</option>
+                    <option value="19">Nuevo León</option>
+                    <option value="20">Oaxaca</option>
+                    <option value="21">Puebla</option>
+                    <option value="22">Querétaro</option>
+                    <option value="23">Quintana Roo</option>
+                    <option value="24">San Luis Potosí</option>
+                    <option value="25">Sinaloa</option>
+                    <option value="26">Sonora</option>
+                    <option value="27">Tabasco</option>
+                    <option value="28">Tamaulipas</option>
+                    <option value="29">Tlaxcala</option>
+                    <option value="30">Veracruz de Ignacio de la Llave</option>
+                    <option value="31">Yucatán</option>
+                    <option value="32">Zacatecas</option>
+                </select>
+            </div>
+        </div>
+        <div class="row datosTest" ng-hide="enviado == 1">
+            <div class="col-xs-12 col-sm-12 col-md-12" ng-class="{
+                                                  'has-error': form1.mensaje.$touched && form1.mensaje.$invalid,
+                                                  'has-success': form1.mensaje.$touched && !form1.mensaje.$invalid
+                                                }">
+                <div class="table-responsive">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td style="padding:0">
+                                    <textarea class="form-control" name="mensaje" id="mensaje" ng-model="mensaje" rows="5" placeholder="Por favor, escribe tu mensaje." ng-minlength="5" ng-maxlength="500" required></textarea>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <p><a class="btn btn-lg btn-info" href="" role="button" ng-disabled="form1.$invalid" ng-click="form1.$valid && postContactInfo()">Evaluar</a></p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-12 barraSex">
+                <p>También podemos atenderte a través de nuestra <b>LADA sin costo:</b><span> 01800 911 6666 - Opción 3</span></p>
+            </div>
+        </div>
+        <hr>
+    </div>
+</form>

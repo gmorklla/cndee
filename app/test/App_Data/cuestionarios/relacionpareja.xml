@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>¿Cuando tu pareja tiene algún comportamiento con el que te sientes incómodo(a), ¿te quedas callado(a)?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Te sientes poco escuchado(a) por tu pareja?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Es difícil que encuentren momentos para hablar de ustedes?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿La desconfianza y los celos son una constante en su relación?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Cuando tienen algún desacuerdo ¿lo ignoran y hacen como si no pasara nada?</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Hay momentos en los que terminan gritando, insultándose y/o golpeándose?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Evitan hablar de su sexualidad?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Te sientes insatisfecho(a) con tu vida sexual?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Sus valores e ideas acerca de la sexualidad son muy diferentes?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿La convivencia con la familia de alguno o de ambos afecta su relación de pareja?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Si van a tomar alguna decisión la familia interviene?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Si alguno de los dos decide salir con sus amigos, ¿es motivo de conflicto?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Tienen dificultades por la forma en que se distribuyen los gastos y/o las tareas y responsabilidades?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>La decisión sobre lo que hacen en su tiempo libre ¿es tomada sólo por uno de ustedes?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Al tomar alguna decisión, ¿uno de ustedes termina cediendo siempre?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Alguno de ustedes ha renunciado a algún interés o meta importante para lograr la aceptación del otro?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Tratan de imponerse sus gustos y preferencias?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>¿Se señalan constantemente sus errores o defectos?.</texto>
+		<respuesta>
+			<texto>a)Siempre</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)A veces</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>3</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

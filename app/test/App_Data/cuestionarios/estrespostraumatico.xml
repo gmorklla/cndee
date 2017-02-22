@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+  <pregunta>
+    <texto>Has sido víctima de algún secuestro, tortura, asalto, violación o accidente.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has visto el asesinato, tortura, violación o asalto de otra persona.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has vivido algún tipo de catástrofe natural.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has  perdido a algún ser querido en los últimos meses.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes  constantes imágenes o  pesadillas del evento traumático vivido.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Por más que intentas olvidar el hecho que viviste lo recuerdas constantemente.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Evitas los lugares, platicas o situaciones que te recuerden lo vivido.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes problemas para dormir, concentrarte y  estas  irritable la mayor parte del tiempo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Estas  alerta la mayor parte del tiempo, imaginando que algo o alguien podría lastimarte de nuevo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has perdido el interés en salir y convivir con los demás.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has dejado de salir de casa y prefieres dormir para no pensar en lo ocurrido.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes  taquicardia, nauseas, sudoración y miedo intenso cuando pasa por algún lugar que te recuerda lo ocurrido.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Después del evento que viviste  has comenzado a consumir drogas o alcohol para sentirte mejor.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_13</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Este evento traumático sucedió hace una semana o menos.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_14</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes  con estos síntomas de uno a tres meses.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_15</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Llevas con estos síntomas menos de una semana .</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_16</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Este evento traumático sucedió hace seis meses o más.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_17</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+</preguntas>
+

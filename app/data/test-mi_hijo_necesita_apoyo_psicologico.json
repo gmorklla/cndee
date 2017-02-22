@@ -1,0 +1,97 @@
+[
+	{
+		"pregunta": "¿Consideras que la inteligencia de tu hijo es menor que la de otros niños?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo suele no respetar los límites o las reglas que le pones?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo presenta dificultad para poder hablar o articular palabras?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo presenta movimientos repetitivos o repite lo que escucha la mayoría del tiempo sin que sea necesario?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Se le dificulta mantener la atención, incluso jugando o al ver televisión?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿En la escuela no presta atención a la clase o a las indicaciones?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿El niño se presenta desafiante ante cualquier autoridad?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Ha mostrado conductas de agresión física a terceros?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Ha presentado conductas como robar o destruir objetos de terceros?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo ha lastimado a algún animal de manera intencional?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo se orina en la cama?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿El niño continuamente defeca en el calzón?",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo miente constantemente?",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿El niño muestra conductas de tipo sexual de manera repetida?",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Sufre de trastornos de sueño (pesadillas o sonambulismo)?",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿El niño se arranca el cabello?",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿El niño se come las u{as constantemente?",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo llora o se muestra con miedo cada que sales de casa o lo dejas?",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tu hijo confunde las letras o los números ya que los invierte?",
+		"numero": "19",
+		"respuestas": "trueFalse"
+	}
+]

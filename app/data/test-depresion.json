@@ -1,0 +1,102 @@
+[
+	{
+		"pregunta": "Me siento triste, desanimado y sin energía",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Lloro casi todo el días",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me cuesta trabajo dormir, o duermo demasiado",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He perdido el apetito",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me canso rápidamente y mi cuerpo se agita",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo problemas para concentrarme casi todo el día",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He perdido el interés en mis actividades durante la mayor parte del día",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento inseguro y he perdido la confianza en mi mismo",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento culpable y menos útil con mi familia",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo miedo de lo que pueda ocurrir en el futuro",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me he cuelto más irritable, impulsivo y confictivo",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento incapaz de sentir placer y de disfrutar de la vida",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Soy negativo y pesimista",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He tenido pensamientos suicidas",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento angustiado y ansioso",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mi rendimiento en la oficina o el hogar ha disminuido",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Ha disminuido mi interés por el sexo",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Siento opresión en el pecho",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo dolor muscular, de cabeza o espalda",
+		"numero": "19",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me preocupo exageradamente por las enfermedades físicas que pueda presentar",
+		"numero": "20",
+		"respuestas": "trueFalse"
+	}
+]

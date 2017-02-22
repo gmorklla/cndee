@@ -1,0 +1,214 @@
+<form id="form1" name="form1" class="contacto" novalidate>
+    <input ng-value="subj" name="subject" type="hidden">
+    <input ng-value="numPregs" name="numPregs" type="hidden">
+    <div class="articulo">
+        <h1>{{titulo}}</h1>
+        <hr>
+        <div class="row datosTest">
+            <div class="col-xs-12">
+                <p>El siguiente cuestionario pretende evaluar la posibilidad de que presentes este trastorno. CONTESTA SI O NO.</p>
+            </div>
+            <!-- Mensajes de error -->
+            <div class="col-xs-12 error" ng-messages="form1.nombre.$error" ng-if="form1.nombre.$touched">
+                <div class="bg-danger">
+                    <span ng-message="minlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu nombre es muy corto (Mínimo 3 letras).</span>
+                    <span ng-message="maxlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu nombre es muy largo (Máximo 150 letras).</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu nombres es requerido.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.email.$error" ng-if="form1.email.$touched">
+                <div class="bg-danger">
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu email es requerido.</span>
+                    <span ng-message="email"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Parece que escribiste mal tu email.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.telefono.$error" ng-if="form1.telefono.$touched">
+                <div class="bg-danger">
+                    <span ng-message="minlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Número de teléfono muy corto (Mínimo 10 números).</span>
+                    <span ng-message="maxlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Número de teléfono muy largo (Máximo 10 números).</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu número de teléfono es requerido.</span>
+                    <span ng-message="tel"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Parece que escribiste mal tu número de teléfono.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.sexo.$error" ng-if="form1.sexo.$touched">
+                <div class="bg-danger">
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Debes seleccionar tu sexo.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.edad.$error" ng-if="form1.edad.$touched">
+                <div class="bg-danger">
+                    <span ng-message="min"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Proporciona tu edad de manera correcta (Mínimo 1).</span>
+                    <span ng-message="max"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Proporciona tu edad de manera correcta (Máximo 100).</span>
+                    <span ng-message="number"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; You did not enter a valid number</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu edad es requerida.</span>
+                </div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.mensaje.$error" ng-if="form1.mensaje.$touched">
+                <div class="bg-danger">
+                    <span ng-message="minlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu mensaje es muy corto (Mínimo 20 letras).</span>
+                    <span ng-message="maxlength"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu mensaje es muy largo (Máximo 500 letras).</span>
+                    <span ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Tu mensaje es requerido.</span>
+                </div>
+            </div>            
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_1.$error" ng-if="form1.pregunta_1.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 1 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_2.$error" ng-if="form1.pregunta_2.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 2 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_3.$error" ng-if="form1.pregunta_3.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 3 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_4.$error" ng-if="form1.pregunta_4.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 4 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_5.$error" ng-if="form1.pregunta_5.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 5 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_6.$error" ng-if="form1.pregunta_6.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 6 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_7.$error" ng-if="form1.pregunta_7.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 7 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_8.$error" ng-if="form1.pregunta_8.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 8 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_9.$error" ng-if="form1.pregunta_9.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 9 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_10.$error" ng-if="form1.pregunta_10.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 10 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_11.$error" ng-if="form1.pregunta_11.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 11 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_12.$error" ng-if="form1.pregunta_12.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 12 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_13.$error" ng-if="form1.pregunta_13.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 13 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_14.$error" ng-if="form1.pregunta_14.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 14 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_15.$error" ng-if="form1.pregunta_15.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 15 ).</div></div>
+            </div>
+            <div class="col-xs-12 error" ng-messages="form1.pregunta_16.$error" ng-if="form1.pregunta_16.$touched">
+                <div class="bg-danger"><div ng-message="required"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Por favor responde todas las preguntas ( 16 ).</div></div>
+            </div>
+            <!-- Mensajes de error -->
+            <div class="col-xs-12 col-sm-4 col-md-4" ng-class="{
+                                                  'has-error': form1.nombre.$touched && form1.nombre.$invalid,
+                                                  'has-success': form1.nombre.$touched && !form1.nombre.$invalid
+                                                }">
+                <input type="text" class="form-control" id="nombre" name="nombre" ng-model="nombre" placeholder="Nombre" ng-minlength="3" ng-maxlength="150" required>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4" ng-class="{ 
+                                                'has-error': form1.email.$touched && form1.email.$invalid,
+                                                'has-success': form1.email.$touched && !form1.email.$invalid
+                                              }">
+                <input class="form-control" id="email" name="email" type="email" placeholder="Email" ng-model="email" required>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4" ng-class="{ 
+                                                'has-error': form1.telefono.$touched && form1.telefono.$invalid,
+                                                'has-success': form1.telefono.$touched && !form1.telefono.$invalid
+                                              }">
+                <input class="form-control" id="telefono" name="telefono" type="tel" placeholder="Teléfono a 10 números" ng-model="telefono">
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4" ng-class="{
+                                                  'has-error': form1.sexo.$touched && form1.sexo.$invalid,
+                                                  'has-success': form1.sexo.$touched && !form1.sexo.$invalid
+                                                }">
+                <select class="form-control" name="sexo" id="sexo" ng-model="sexo" required>
+                    <option value="">Sexo</option>
+                    <option value="Femenino">Femenino</option>
+                    <option value="Masculino">Masculino</option>
+                </select>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4" ng-class="{
+                                                  'has-error': form1.edad.$touched && form1.edad.$invalid,
+                                                  'has-success': form1.edad.$touched && !form1.edad.$invalid
+                                                }">
+                <input class="form-control" id="edad" name="edad" type="number" placeholder="Edad" ng-model="edad" ng-min="1" ng-max="100" required>
+            </div>
+        </div>
+        <div class="row datosTest">
+            <div ng-repeat="item in preguntas" class="col-xs-12 col-sm-6 col-md-6" ng-class="{
+                                                  'has-error': form1.{{ 'pregunta_' + item.numero }}.$touched && form1.{{ 'pregunta_' + item.numero }}.$invalid,
+                                                  'has-success': form1.{{ 'pregunta_' + item.numero }}.$touched && !form1.{{ 'pregunta_' + item.numero }}.$invalid
+                                                }">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th><span class="badge">{{item.numero}}</span>&nbsp; {{item.pregunta}}:</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <select ng-if="item.respuestas === 'trueFalse'" class="form-control" ng-model="pregunta_[item.numero]" name="{{ 'pregunta_' + item.numero }}" id="{{ 'pregunta_' + item.numero }}"  required>
+                                        <option value="">Escoge tu respuesta</option>
+                                        <option value="1">Sí</option>
+                                        <option value="0">No</option>
+                                    </select>
+                                    <select ng-if="item.respuestas === 'multi'" class="form-control" ng-model="pregunta_[item.numero]" name="{{ 'pregunta_' + item.numero }}" id="{{ 'pregunta_' + item.numero }}"  required>
+                                        <option value="">Escoge tu respuesta</option>
+                                        <option ng-value="item.frecuencia">Con frecuencia</option>
+                                        <option ng-value="item.ocasiones">En ocasiones</option>
+                                        <option ng-value="item.nunca">Nunca</option>
+                                    </select>
+                                    <select ng-if="item.respuestas === 'multi-duelo'" class="form-control" ng-model="pregunta_[item.numero]" name="{{ 'pregunta_' + item.numero }}" id="{{ 'pregunta_' + item.numero }}"  required>
+                                        <option value="">Escoge tu respuesta</option>
+                                        <option ng-value="item.mejor">Mejor al recordarle</option>
+                                        <option ng-value="item.reflexivo">Reflexivo</option>
+                                        <option ng-value="item.peor">Peor, mal y desesperado</option>
+                                    </select>
+                                    <select ng-if="item.respuestas === 'multi-estres-a'" class="form-control" ng-model="pregunta_[item.numero]" name="{{ 'pregunta_' + item.numero }}" id="{{ 'pregunta_' + item.numero }}"  required>
+                                        <option value="">Escoge tu respuesta</option>
+                                        <option ng-value="item.cierto">Cierto</option>
+                                        <option ng-value="item.niEnCuenta">Casi no lo he tomado en cuenta</option>
+                                        <option ng-value="item.falso">Falso</option>
+                                    </select>
+                                    <select ng-if="item.respuestas === 'multi-estres-b'" class="form-control" ng-model="pregunta_[item.numero]" name="{{ 'pregunta_' + item.numero }}" id="{{ 'pregunta_' + item.numero }}"  required>
+                                        <option value="">Escoge tu respuesta</option>
+                                        <option ng-value="item.cierto">Cierto</option>
+                                        <option ng-value="item.ocasiones">En ocasiones</option>
+                                        <option ng-value="item.falso">Falso</option>
+                                    </select>
+                                    <select ng-if="item.respuestas === 'traumas'" class="form-control" ng-model="pregunta_[item.numero]" name="{{ 'pregunta_' + item.numero }}" id="{{ 'pregunta_' + item.numero }}"  required>
+                                        <option value="">Escoge tu respuesta</option>
+                                        <option ng-value="item.si">Sí</option>
+                                        <option ng-value="item.no">No</option>
+                                    </select>                                                                        
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12" ng-class="{
+                                                  'has-error': form1.mensaje.$touched && form1.mensaje.$invalid,
+                                                  'has-success': form1.mensaje.$touched && !form1.mensaje.$invalid
+                                                }">
+                <div class="table-responsive">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td style="padding:0">
+                                    <textarea class="form-control" name="mensaje" id="mensaje" ng-model="mensaje" rows="5" placeholder="Explícanos tu caso. Trata de incluir los datos que consideres importantes para obtener una valoración más completa." ng-minlength="20" ng-maxlength="500" required></textarea>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <p><a class="btn btn-lg btn-info" href="" role="button" ng-disabled="form1.$invalid" ng-click="form1.$valid && envia()">Evaluar</a></p>
+            </div>
+        </div>
+        <hr>
+    </div>
+</form>

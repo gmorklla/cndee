@@ -1,0 +1,92 @@
+[
+	{
+		"pregunta": "¿Cuando tu pareja tiene algún comportamiento con el que te sientes incómodo(a) ¿te quedas callado(a)?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te sientes poco escuchado(a) por tu pareja?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Es difícil que encuentren momentos para hablar de ustedes?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿La desconfianza y los celos son una constante en su relación?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando tienen algún desacuerdo ¿actúan como si no pasara nada?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "En ocasiones terminan gritando, insultándose y/o golpeándose",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Evitan hablar de sus sexualidad?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te sientes insatisfecho(a) con tu vida sexual?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Sus vaolores e ideas acerca de la sexualidad son muy diferentes?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿La convivencia con la familia de alguno o de ambos afecta su relación de pareja?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Si van a tomar alguna decisión la familia interviene?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Si alguno de los dos sale con sus amigos, ¿es motivo de conflicto?",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tienen dificultades por la forma en que se distribuyen los gastos y/o tareas y responsabilidades?",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "La decisión sobre lo que hacen en su tiempo libre ¿es tomada sólo por uno de ustedes?",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "En las decisiones, ¿uno termina cediendo siempre?",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Alguno de ustedes ha reunciado a algún interés o meta importante para lograr la aceptación del otro?",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tratan de imponerse sus gustos y preferencias?",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Se señalan constantemente sus errores o defectos?",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	}
+]

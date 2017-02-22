@@ -1,0 +1,72 @@
+[
+	{
+		"pregunta": "Busco la aprobación de otras personas para tomar decisiones",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He pensado en ir a terapia para que los demás cambien",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me es difícil perdonar y constantemente vivo con resentimiento del pasado",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mi relación con los demás (pareja, hijos, compañeros de trabajo, amigos) me produce angustia o culpa en lugar de paz y amor",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "En mis relaciones con los demás busco una figura materna o paterna que me de afecto",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Trato de controlar a las personas a través de retirarles mi afecto o producir sentimientos de culpa, amenazar, manipular o dominar",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Siento que los demás (pareja, hijos, familia, amigos) llenan mis vacíos",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento atacado y me pongo a la defensiva cuando creo que se habla mal de mí",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Necesito tener el control de lo que sucede",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo dificultad para relajarme o divertirme",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me cuesta trabajo recibir elogios o cumplidos",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He permitido que alguien abuse física o emocionalmente de mí",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He abusado física o emocionalmente de alguien",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Dejo de hacer mis rutinas abruptamente porque estoy molesto/a con alguien",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	}
+]

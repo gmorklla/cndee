@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "Siempre complazco a todos",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "En muchas discusiones salgo perdiendo",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "A veces pienso que no valgo nada",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me dan miedo las adversidades",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "No soy capaz de resolver mis problemas",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sé que con mi amor puedo hacer que los demás cambien",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Debo soportar callada (o) todo lo malo",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me lastima ser rechazado",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me da miedo estar sola (o)",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Es bueno ser sumiso",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

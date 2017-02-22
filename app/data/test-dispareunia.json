@@ -1,0 +1,62 @@
+[
+	{
+		"pregunta": "¿Refieres sentir dolor cada que vez que te penetran?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿El dolor se ha presentado por lo menos los últimos seis meses?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Presentas alguna infección vaginal?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Cuándo comienzan tú y tu pareja a tener juegos eróticos antes de la relación sexual presentas lubricación vaginal?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Has dejado de menstruar?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Presentas dolor al tener erección?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿En la educación que has recibido ¿no se hablaba de sexo por considerarlo como algo prohibido, malo o pecaminoso?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Sientes que has perdido el interés o deseo por tu pareja?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Utilizas siempre el mismo método anticonceptivo?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te han practicado alguna cirugía en tus órganos sexuales (pene, próstata, matriz, vagina, ovarios u trompas y testículos)?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Consumes algún medicamento o droga?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿En algún momento de tu vida has sido victima de un ataque sexual?",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	}
+]

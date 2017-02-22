@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "Evito alimentarme aun cuando tengo hambre",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo miedo intenso a subir de peso incluso estando por debajo del peso normal",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento gorda(o) aunque los demás me perciben delgada(o)",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo ausencia de mesntruación sin estar embarazada",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Prefiero comer productos de dieta (con bajo contenido calórico)",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mi peso corporal influye mucho en el concepto que tengo de mi persona",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Oculto los alimentos en servilletas, bolsas o ropa durante la comida",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me enojo cuando las personas me invitan a comer un poco más de lo que acostumbro",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tardo más tiempo en terminar los alimentos que las demás personas",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Siento que la comida es un enemigo a vencer",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

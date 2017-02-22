@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "No tomo en cuenta los derechos de las demás personas, ni los respeto",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He cometido delitos (robar, agredir física o verbalmente, cometer actos vandálicos)",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Miento con facilidad",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando me enojo soy violento",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tomo riesgos porque sé que a mi no me pasará nada",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me cuesta trabajo ser constante en las actividades que desempeño",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "No me importa dañar a otras personas si consigo lo que quiero",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He llegado a lastimar o matar algún animal por placer o diversión",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Los demás me consideraban de pequeño 'un niño problema'",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "No duro en los trabajos ya que termino por robar o no respetar  las reglas'",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "Pienso que todos deberían admirarme",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He cultivado más logros que los demás y por eso creo que soy superior",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Únicamente personas igual de especiales que yo pueden entenderme",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Todas las personas deben tratarme con admiración y respeto",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Con tal de alcanzar mis metas no me importa pasar sobre alguien",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me cuesta trabajo entender a los demás",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sé que mucha gente me tiene envidia",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me han dicho que soy soberbio/a",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Es muy importante para mi el vestir a la moda",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Considero que siempre tengo la razón",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

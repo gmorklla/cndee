@@ -1,0 +1,1424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"child",
+				"childData"
+			],
+			[
+				"newt",
+				"newTestData"
+			],
+			[
+				"chil",
+				"childSnapshot"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"ti",
+				"timestamp"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sum10a1",
+				"sum10a18"
+			],
+			[
+				"sumC",
+				"sumC3"
+			],
+			[
+				"celos",
+				"celos_en_la_pareja\t(test.js)"
+			],
+			[
+				"hay",
+				"hay1y2"
+			],
+			[
+				"sum10",
+				"sum10y11"
+			],
+			[
+				"anor",
+				"anorgasmia\t(cuestionario.js)"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bipolaridad",
+				"bipolaridad"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Fire",
+				"FirebaseRTData"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"getScores",
+				"getScoresRanking"
+			],
+			[
+				"chidl",
+				"childData"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"displ",
+				"displayName\t(nav.js)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ng-",
+				"ng-if\t(index.html)"
+			],
+			[
+				"new",
+				"newHtml"
+			],
+			[
+				"logo",
+				"logosDistort"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"border-b",
+				"border-bottom-width"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"from",
+				"fromState"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"login",
+				"loginData"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"sa",
+				"saludable"
+			],
+			[
+				"conte",
+				"contenedor"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"Hola",
+				"HolaMundo"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"farma",
+				"farmaciasdesimilares\t(nota.js)"
+			],
+			[
+				"termino",
+				"terminoFinal"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"articulo",
+				"articuloId\t(articulo.js)"
+			],
+			[
+				"activeIn",
+				"GameObject.activeInHierarchy"
+			],
+			[
+				"clo",
+				"clouds"
+			],
+			[
+				"move",
+				"moveCamera"
+			],
+			[
+				"Hide",
+				"HideInInspector"
+			],
+			[
+				"cloud",
+				"cloudsInGame"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"po",
+				"positionY"
+			],
+			[
+				"Seriali",
+				"SerializeField"
+			],
+			[
+				"OnTriggerEnter",
+				"Collider2D.OnTriggerEnter2D(other)"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"worl",
+				"worldWidth"
+			],
+			[
+				"world",
+				"worldHeight"
+			],
+			[
+				"Camera",
+				"Camera.main"
+			],
+			[
+				"bounds",
+				"Bounds.size"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"dec",
+				"deconfig\t(prettyurlspc.js)"
+			],
+			[
+				"tip",
+				"tipoDeOferta"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"Vecto",
+				"Vector2"
+			],
+			[
+				"Rigi",
+				"Rigidbody2D"
+			],
+			[
+				"Set",
+				"SetBool"
+			],
+			[
+				"Ph",
+				"Physics2D"
+			],
+			[
+				"sit",
+				"sitemapArray"
+			],
+			[
+				"the",
+				"theBestVideo"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"bs3-templ",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"simino",
+				"siminotasArray"
+			],
+			[
+				"shareTe",
+				"shareTextNotas\t(admin.html)"
+			],
+			[
+				"has",
+				"hashtagNotas\t(admin.html)"
+			],
+			[
+				"bs3-input",
+				"bs3-input:text\tbs3-input-text"
+			],
+			[
+				"img",
+				"imgHeight"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"bs3-tem",
+				"bs3-template:starter\tbs3-template.starter"
+			],
+			[
+				"bs3-ta",
+				"bs3-table\tbs3-table"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/privacidad.html",
+			"settings":
+			{
+				"buffer_size": 18601,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "ali",
+		"selected_items":
+		[
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular",
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular/app"
+	],
+	"file_history":
+	[
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular/app/data/articulos.json",
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular/app/views/como_identificar_si_tu_hijo_esta_viviendo_bullying_escolar.html",
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/app.js",
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular/app/views/diabetes_y_sexualidad.html",
+		"/C/Users/admmrodriguez/Documents/Sitios/CNDEE - angular/app/index.html",
+		"/C/Users/pubmrodriguez/Desktop/index.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/articulos.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/sindrome_de_la_rana_hervida.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/administrador.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/administrador.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/app.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/articulo.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/articulo.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/services/firebaseRTData.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/cuestionario.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/cuestionario.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/resultado.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/services/_.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/contacto.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/contacto.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/notifications.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/sw.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/services/contactsrv.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/salud.html",
+		"/C/Users/pubmrodriguez/Documents/propuestas/eternalSecret2016/propuesta3.html",
+		"/C/Users/pubmrodriguez/Documents/propuestas/eternalSecret2016/propuesta3-INT.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/manifest.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/ChromePushManager.js",
+		"/C/Users/pubmrodriguez/Downloads/ChromePushNotifications-master/ChromePushNotifications-master/manifest.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/filters/dateFilter.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/styles/main.css",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/articulos.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/main.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/legal.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/privacidad.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/dist/scripts/scripts.4bbe4134.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/dist/scripts/scripts.d7b9f55f.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/dist/scripts/scripts.528c0712.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/dist/styles/main.4d7cfd2b.css",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/about.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/test.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/test/test.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/redes.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/index.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/resultado.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-relaciones_familiares.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-ansiedad_por_separacion_en_ninos.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-estres_postraumatico.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-ataques_de_panico.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-ansiedad.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-celos_en_la_pareja.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-soy_una_persona_mentalmente_sana.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-vejez.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-relacion_con_mi_hijo_adolescente.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-relacion_sana_de_pareja.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-personalidad_narcisista.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-codependencia.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-vaginismo.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-dispareunia.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-eyaculacion_precoz.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-anorgasmia.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-disfuncion_erectil.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-trastorno_de_ereccion.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-trastorno_del_deseo_sexual.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-personalidad_antisocial.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-personalidad_histrionica.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-violencia_de_pareja.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-conflictos_en_la_pareja.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-violencia_con_seres_queridos.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-anorexia.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-bulimia.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-alcoholismo.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-drogadiccion.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-estres.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-duelo.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/data/test-bipolaridad.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/test.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/scripts/controllers/cuestionario-b.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/views/main.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/test/TEST/resultado.aspx",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/index2.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/test/TEST/test-ezquisofrenia.aspx",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/test/App_Data/cuestionarios/eyaculacionprecoz.xml",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE - angular/app/test/TEST/test-eyaculacion-precoz.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/services/firebaseRTData.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/styles/animate.css",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/views/espacioGameModal.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/controllers/avisos.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/controllers/inicio.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/views/avisos.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/CNDEE/robots.txt",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/styles/main.css",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/views/inicio.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/controllers/ciencia.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/views/loginModal.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/styles/cover.css",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/views/nav.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/controllers/nav.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/views/edicionesModal.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/app.js",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/index.html",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/scripts/app.js",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/scripts/controllers/medicamentos.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/services/compile.js",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/views/bienestar.html",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/views/siminotas/10-mitos-sobre-la-gastritis.html",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/data/siminotas.json",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/.gitignore",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/unity/intoTheSpace/index.html",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/jquery/main.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/scripts/services/auth.js",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/views/contacto.html",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/scripts/controllers/localiza.js",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Assets/2DSpaceShooterExample/CompleteProject/SS_Scripts/SharedValues_Script.cs",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/unity/intoTheSpace/index.html",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Builds/index.html",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Assets/2DSpaceShooterExample/CompleteProject/SS_Scripts/GameController_Script.cs",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Assets/2DSpaceShooterExample/CompleteProject/SS_Scripts/Player_Script.cs",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Assets/2DSpaceShooterExample/CompleteProject/SS_Scripts/PlayerShipShots_Script.cs",
+		"/C/Users/pubmrodriguez/Documents/Github/farmacias-web/app/web.config",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/unity/intoTheSpace/Release/web.config",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/unity/intoTheSpace/Release/UnityLoader.js",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/index.html",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Assets/Plugins/WebGL/bg.jslib",
+		"/C/Users/pubmrodriguez/Documents/Sitios/drSimi/app/unity/intoTheSpace/Release/bg.jslib",
+		"/C/Users/pubmrodriguez/Documents/Unity/intoTheSpace/intoTheSpace/Builds/TemplateData/UnityProgress.js",
+		"/C/Users/pubmrodriguez/Documents/drSimi/app/scripts/controllers/nav.js",
+		"/C/Users/pubmrodriguez/Documents/drSimi/app/scripts/services/loadData.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\pubmrodriguez\\Documents\\Sitios\\CNDEE - angular\\app\\data",
+			"C:\\Users\\pubmrodriguez\\Documents\\Sitios\\drSimi\\app\\scripts",
+			"C:\\Users\\pubmrodriguez\\Documents\\EternalSecret",
+			"C:\\Users\\pubmrodriguez\\Desktop\\fun",
+			"C:\\Users\\pubmrodriguez\\Documents\\GitHub\\farmacias-web\\app",
+			"C:\\Users\\pubmrodriguez\\Documents\\GitHub\\farmacias-web\\app\\scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Distrito Federal",
+			"ul",
+			" ",
+			"newTest",
+			"sendingPushNot",
+			"saveData",
+			"updateState",
+			"fff6f1",
+			"cuest",
+			"sendingPushNot",
+			"childSnapshot",
+			"Nuevo test:",
+			"farmaciasWebApp",
+			"set",
+			"checkFirebaseAll",
+			"FirebaseRTData.ref('test');",
+			"refGame",
+			"},",
+			"nombre",
+			"\" }",
+			"_",
+			"console.log(suma);",
+			"if",
+			"col-md-6 col-sm-6 col-xs-6",
+			"12",
+			"ng-model=\"mensaje",
+			"txt_message",
+			"txt_messa",
+			"txt_telefono",
+			"ng-model=\"tel\"",
+			"txt_message",
+			"txt_telefono",
+			"txt_message",
+			"txt_telefono",
+			"mensaje",
+			"txt_telefono",
+			"txt_message",
+			"ContactCtrl",
+			"person",
+			"test.",
+			"childData",
+			"<td>",
+			"faceTwitter",
+			"6",
+			"testRevisados",
+			"testPendientes",
+			"12",
+			"nombre",
+			"\"nombre\"",
+			"_",
+			"url",
+			"histrio",
+			"newMessageRef",
+			"form1",
+			"rootScope",
+			"scope",
+			"username",
+			"drsimiApp",
+			"6",
+			"datosTest",
+			"form1",
+			"email",
+			"MainCtrl",
+			"equizofre",
+			"relPareja",
+			"multi",
+			",\n\t\t\"frecuencia\": \"1\",\n\t\t\"ocasiones\": \"2\",\n\t\t\"nunca\": \"3\"",
+			"poder",
+			"'No tenemos elementos suficientes para poder hacer una impresión diagnóstica de lo que sucede. En breve nos pondremos en contacto contigo por el mismo medio, para platicar sobre tus dudas o la posible problemática por la que atraviesas o bien te invitamos a que te comuniques con nosotros, la llamada es gratuita.';",
+			"ansiedad",
+			"traumas",
+			",\n\t\t\"si\": \"1\",\n\t\t\"no\": \"0\"",
+			"traumas",
+			",\n\t\t\"si\": \"1\",\n\t\t\"no\": \"0\"",
+			"panico",
+			"traumas",
+			"Conflictos",
+			"vejez",
+			"vaginismo",
+			"multi",
+			",\n\t\t\"frecuencia\": \"1\",\n\t\t\"ocasiones\": \"2\",\n\t\t\"nunca\": \"3\"",
+			"vaginismo",
+			"dispareunia",
+			"Cada que intentas tener una relación sexual es imposible una penetración",
+			"sum1y7a10",
+			"sum3a8",
+			"sum1a2y9a11",
+			"sumUno2",
+			"$scope.titulo",
+			"bulimia",
+			"alcoholismo",
+			"drogadiccion",
+			"ansiedad",
+			"estres",
+			"drog",
+			"nunca",
+			"ocasiones",
+			"frecuencia",
+			"duelo",
+			"nunca",
+			"frecuencia",
+			"ocasiones",
+			"nunca",
+			"frecuencia",
+			"multi",
+			"bipolaridad",
+			"muerte",
+			"depresion",
+			"articulo",
+			"titulo",
+			"$stateParams.forma",
+			"$scope.formData",
+			"state",
+			"AboutCtrl",
+			"score",
+			"rdbtn_resp_",
+			">\n",
+			"rdbtn_resp_",
+			"rdbtn_resp_1",
+			"txt_message",
+			"txt_edad",
+			"txt_telefono",
+			"txt_from",
+			"txt_nombre",
+			"break;",
+			"href=\"#\"",
+			"envia",
+			"postContactInfo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"        <div class=\"redes\">\n        \n            <a id=\"pint-main\" data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n            <a href=\"https://www.facebook.com/EternalSecretMX\" class=\"face\" target=\"_blank\"><img src=\"images/faceIcon.png\" alt=\"\"></a>\n            <!-- Please call pinit.js only once per page -->\n            <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n        \n        </div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/privacidad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18575,
+								18575
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2717.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.typescript_output":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "CNDEE.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"priva",
+				"app\\views\\privacidad.html"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"diabe",
+				"app\\views\\diabetes_y_sexualidad.html"
+			],
+			[
+				"arti",
+				"app\\scripts\\controllers\\articulo.js"
+			],
+			[
+				"cuestio",
+				"app\\views\\cuestionario.html"
+			],
+			[
+				"admin",
+				"app\\views\\administrador.html"
+			],
+			[
+				"contacto",
+				"app\\views\\contacto.html"
+			],
+			[
+				"admini",
+				"app\\scripts\\controllers\\administrador.js"
+			],
+			[
+				"adminis",
+				"app\\views\\administrador.html"
+			],
+			[
+				"resulta",
+				"app\\scripts\\controllers\\resultado.js"
+			],
+			[
+				"cuestiona",
+				"app\\scripts\\controllers\\cuestionario.js"
+			],
+			[
+				"contac",
+				"app\\views\\contacto.html"
+			],
+			[
+				"conta",
+				"app\\scripts\\controllers\\contacto.js"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"main",
+				"app\\styles\\main.css"
+			],
+			[
+				"cuestion",
+				"app\\scripts\\controllers\\cuestionario.js"
+			],
+			[
+				"legal",
+				"app\\views\\legal.html"
+			],
+			[
+				"priv",
+				"app\\views\\privacidad.html"
+			],
+			[
+				"contact",
+				"app\\scripts\\controllers\\contacto.js"
+			],
+			[
+				"test",
+				"app\\scripts\\controllers\\test.js"
+			],
+			[
+				"test.h",
+				"app\\test\\test.html"
+			],
+			[
+				"resultado",
+				"app\\scripts\\controllers\\resultado.js"
+			],
+			[
+				"redes",
+				"app\\views\\redes.html"
+			],
+			[
+				"resul",
+				"app\\scripts\\controllers\\resultado.js"
+			],
+			[
+				"test.",
+				"app\\scripts\\controllers\\test.js"
+			],
+			[
+				"cues",
+				"app\\scripts\\controllers\\cuestionario.js"
+			],
+			[
+				"main.html",
+				"app\\views\\main.html"
+			],
+			[
+				"eyacula",
+				"app\\test\\TEST\\test-eyaculacion-precoz.aspx"
+			],
+			[
+				"eyacul",
+				"app\\test\\TEST\\test-eyaculacion-precoz.aspx"
+			],
+			[
+				"deseo",
+				"app\\data\\test-trastorno_del_deseo_sexual.json"
+			],
+			[
+				"inicio",
+				"app\\views\\inicio.html"
+			],
+			[
+				"mai",
+				"app\\styles\\main.css"
+			],
+			[
+				"nav.js",
+				"app\\scripts\\controllers\\nav.js"
+			],
+			[
+				"nav",
+				"app\\scripts\\controllers\\nav.js"
+			],
+			[
+				"medi",
+				"app\\views\\medicamentos.html"
+			],
+			[
+				"medic",
+				"app\\scripts\\controllers\\medicamentos.js"
+			],
+			[
+				"yout",
+				"app\\scripts\\services\\youtubelist.js"
+			],
+			[
+				"siminotas",
+				"app\\scripts\\controllers\\siminotas.js"
+			],
+			[
+				"you",
+				"app\\scripts\\services\\youtubelist.js"
+			],
+			[
+				"medicam",
+				"app\\scripts\\controllers\\medicamentos.js"
+			],
+			[
+				"detal",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"detale",
+				"app\\views\\detalle.html"
+			],
+			[
+				"simino",
+				"app\\scripts\\controllers\\siminotas.js"
+			],
+			[
+				"nota",
+				"app\\scripts\\controllers\\nota.js"
+			],
+			[
+				"image",
+				"app\\scripts\\controllers\\imageCheck.js"
+			],
+			[
+				"local",
+				"app\\scripts\\controllers\\localiza.js"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"locali",
+				"app\\scripts\\controllers\\localiza.js"
+			],
+			[
+				"busqu",
+				"app\\scripts\\controllers\\busquedagrupo.js"
+			],
+			[
+				"admi",
+				"app\\scripts\\controllers\\administrador.js"
+			],
+			[
+				"medica",
+				"app\\views\\medicamentos.html"
+			],
+			[
+				"siminot",
+				"app\\scripts\\controllers\\siminotas.js"
+			],
+			[
+				"detalle",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"busque",
+				"app\\scripts\\services\\busqueda.js"
+			],
+			[
+				"not",
+				"app\\scripts\\controllers\\nota.js"
+			],
+			[
+				"desk",
+				"app\\styles\\desktop.css"
+			],
+			[
+				"busqueda",
+				"app\\scripts\\controllers\\busquedagrupo.js"
+			],
+			[
+				"youtube",
+				"app\\scripts\\services\\youtubelist.js"
+			],
+			[
+				"promo",
+				"app\\views\\promociones.html"
+			],
+			[
+				"promocio",
+				"app\\scripts\\controllers\\promociones.js"
+			],
+			[
+				"imageche",
+				"app\\scripts\\controllers\\imageCheck.js"
+			],
+			[
+				"promociones",
+				"app\\views\\promociones.html"
+			],
+			[
+				"promocion",
+				"app\\scripts\\controllers\\promociones.js"
+			],
+			[
+				"faqs",
+				"faqs.html"
+			],
+			[
+				"produ",
+				"productos.html"
+			],
+			[
+				"conse",
+				"consejos.html"
+			],
+			[
+				"web.",
+				"app\\web.config"
+			],
+			[
+				"ind",
+				"app\\index.html"
+			],
+			[
+				"nav.",
+				"app\\views\\nav.html"
+			],
+			[
+				"app.j",
+				"app\\scripts\\app.js"
+			],
+			[
+				"bien",
+				"app\\views\\bienestar.html"
+			],
+			[
+				"app.js",
+				"app\\scripts\\app.js"
+			],
+			[
+				"localiza",
+				"app\\views\\localizaFrame.html"
+			],
+			[
+				"sexul",
+				"CNDEE - angular\\app\\scripts\\controllers\\sexualidad.js"
+			],
+			[
+				"web.con",
+				"app\\web.config"
+			],
+			[
+				"det",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"med",
+				"app\\scripts\\controllers\\medicamentos.js"
+			],
+			[
+				"desko",
+				"app\\styles\\desktop.css"
+			],
+			[
+				"comenta",
+				"app\\scripts\\controllers\\comentarios.js"
+			],
+			[
+				"fac",
+				"app\\views\\facturacion.html"
+			],
+			[
+				"factur",
+				"app\\views\\facturacion.html"
+			],
+			[
+				"comen",
+				"app\\views\\comentarios.html"
+			],
+			[
+				"deta",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"pre",
+				"app\\scripts\\services\\prettyurlspc.js"
+			],
+			[
+				"simi",
+				"app\\views\\siminotas.html"
+			],
+			[
+				"app.",
+				"app\\scripts\\app.js"
+			],
+			[
+				"index.ht",
+				"app\\index.html"
+			],
+			[
+				"detalle.j",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"foo",
+				"app\\views\\footerFrame.html"
+			],
+			[
+				"footer.html",
+				"app\\views\\footer.html"
+			],
+			[
+				"nav.html",
+				"app\\views\\nav.html"
+			],
+			[
+				"producto",
+				"app\\scripts\\services\\producto.js"
+			],
+			[
+				"youtu",
+				"app\\scripts\\services\\youtubelist.js"
+			],
+			[
+				"main.c",
+				"app\\styles\\main.css"
+			],
+			[
+				"articulo",
+				"CNDEE - angular\\app\\scripts\\controllers\\articulo.js"
+			],
+			[
+				"ads",
+				"app\\data\\ads.json"
+			],
+			[
+				"tabl",
+				"app\\styles\\tablets.css"
+			],
+			[
+				"detalle.h",
+				"app\\views\\detalle.html"
+			],
+			[
+				"main.cs",
+				"app\\styles\\main.css"
+			],
+			[
+				"notas",
+				"app\\views\\notasHistorico.html"
+			],
+			[
+				"barra",
+				"app\\views\\barra.html"
+			],
+			[
+				"contacto.",
+				"app\\views\\contacto.html"
+			],
+			[
+				"simin",
+				"app\\data\\siminotas.json"
+			],
+			[
+				"inici",
+				"app\\scripts\\controllers\\inicio.js"
+			],
+			[
+				"des",
+				"app\\styles\\desktop.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

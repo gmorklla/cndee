@@ -1,0 +1,82 @@
+[
+	{
+		"pregunta": "Siento opresión en el pecho, temblores y palpitaciones",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mi cuerpo o mis manos sudan la mayor parte del día",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me falta el aliento y siento que me ahogo",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Presento náuseas y dolor abdominal",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He perdido el apetito sexual",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me siento muy intranquilo",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Presento mareo o sensación de desmayo",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mi visión se torna borrosa",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Siento oleadas de calor o frío",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Siento rigidez muscular, espasmos o tics nervios",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo miedo de volverme loco/a",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo un temor intenso sobre lo que podría suceder en el futuro",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me causa un gran temor pensar en la muerte",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me causa temor salir a la calle, estar en el tráfico o lugares concurridos",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "He perdido el interés en mis actividades cotidianas",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo dificultad para dormir o cuando duermo tengo pesadillas y siento que no descanso",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	}
+]

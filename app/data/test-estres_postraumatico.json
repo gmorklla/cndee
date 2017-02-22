@@ -1,0 +1,87 @@
+[
+	{
+		"pregunta": "Has sido víctima de algún secuestro, tortura, asalto, violación o accidente",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has visto el asesinato, tortura, violación o asalto de otra persona",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has vivido algún tipo de catástrofe natural",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has  perdido a algún ser querido en los últimos meses",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes  constantes imágenes o  pesadillas del evento traumático vivido",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Por más que intentas olvidar el hecho que viviste lo recuerdas constantemente",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Evitas los lugares, platicas o situaciones que te recuerden lo vivido",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes problemas para dormir, concentrarte y  estas  irritable la mayor parte del tiempo",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Estas  alerta la mayor parte del tiempo, imaginando que algo o alguien podría lastimarte de nuevo",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has perdido el interés en salir y convivir con los demás",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has dejado de salir de casa y prefieres dormir para no pensar en lo ocurrido",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes  taquicardia, nauseas, sudoración y miedo intenso cuando pasa por algún lugar que te recuerda lo ocurrido",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Después del evento que viviste  has comenzado a consumir drogas o alcohol para sentirte mejor",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Este evento traumático sucedió hace una semana o menos",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes  con estos síntomas de uno a tres meses",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Llevas con estos síntomas menos de una semana",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Este evento traumático sucedió hace seis meses o más",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	}
+]

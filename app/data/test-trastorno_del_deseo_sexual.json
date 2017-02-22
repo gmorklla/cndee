@@ -1,0 +1,62 @@
+[
+	{
+		"pregunta": "¿Hablas o bromeas poco de sexo con tu pareja?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Pocas veces piensas en tener relaciones sexuales?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Consideras adecuado el tiempo que tardas sin tener relaciones sexuales, aunque a tu pareja le parezca demasiado?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te sientes presionada (o) por tu pareja para tener relaciones sexuales?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿La auto estimulación te parece un acto denigrante?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando ves la TV y encuentras algo relacionado con el sexo, como besos, caricias,  o el acto sexual ¿te sientes incómodo/a y cambias rápidamente el canal?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te excusas en los hijos, el cansancio, dolor de cabeza, etc. para evitar tener relaciones sexuales con la pareja?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Habitualmente Sientes aversión hacia las relaciones sexuales?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Llevas más de seis meses identificando tu rechazo a las relaciones sexuales?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Has dejado de menstruar?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tus órganos sexuales externos presentan alguna secreción, ardor, dolor o sangrado anormal?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tomas algún medicamento?",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	}
+]

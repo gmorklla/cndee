@@ -1,0 +1,57 @@
+[
+	{
+		"pregunta": "Las personas a mi alrededor me dicen que exagero mis emociones",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando me encuentro con otras personas deseo ser el centro de atención",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Reconozco que soy muy atractiva/o para los demás",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me irrito cuando los demás no cumplen mis deseos",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Puedo expresar claramente mis emociones",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me dejo influenciar fácilmente por otros",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cualquiera que trate conmigo me querrá y seré muy importante para ella",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Creo que debo recibir un trato especial, ya que me lo merezco",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Creo que merezco siempre lo mejor",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mis relaciones con el sexo opuesto son fugaces",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Soy constante en lo que emprendo",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	}
+]

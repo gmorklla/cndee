@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "¿La frecuencia con la que consigues el orgasmo en tus relaciones sexuales es satisfactoria para ti?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Independientemente del gusto y deseo que sientas por tu pareja, se te dificulta conseguir un orgasmo?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Solamente consigues el orgasmo masturbándote?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿La dificultad para conseguir un orgasmo se ha presentado en todas tus parejas?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿En la educación que has recibido ¿Hablar de sexo se considera como algo prohibido, malo o pecaminoso?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Si en ocasiones recurriste a la masturbación te sentías mal o avergonzado(a) después?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Sientes dolor en la penetración?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te han detectado alguna enfermedad o trastorno físico o mental?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Consumes algún tipo de droga o medicamento?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Te han practicado alguna cirugía recientemente o tratamiento que involucre los órganos sexuales?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

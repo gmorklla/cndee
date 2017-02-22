@@ -1,0 +1,108 @@
+[
+	{
+		"pregunta": "Recientemente he tenido cambios importantes o trascendentes en mi vida",
+		"numero": "1",
+		"respuestas": "multi-estres-a",
+		"cierto": "2",
+		"niEnCuenta": "1",
+		"falso": "0"
+	},
+	{
+		"pregunta": "He cambiado mi manera de convivir con mi familia y/o amigos",
+		"numero": "2",
+		"respuestas": "multi-estres-a",
+		"cierto": "2",
+		"niEnCuenta": "1",
+		"falso": "0"
+	},
+	{
+		"pregunta": "He tenido cambios en mi alimentación (comer en exceso o comer poco)",
+		"numero": "3",
+		"respuestas": "multi-estres-b",
+		"cierto": "3",
+		"ocasiones": "2",
+		"falso": "0"
+	},
+	{
+		"pregunta": "Mi deseo sexual ha disminuido en cantidad e interés",
+		"numero": "4",
+		"respuestas": "multi-estres-b",
+		"cierto": "3",
+		"ocasiones": "2",
+		"falso": "0"
+	},
+	{
+		"pregunta": "Presento dificultad para conciliar el sueño y cuando duermo siento que no descanso",
+		"numero": "5",
+		"respuestas": "multi",
+		"frecuencia": "3",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "No tolero situaciones que antes me eran insignificantes",
+		"numero": "6",
+		"respuestas": "multi",
+		"frecuencia": "3",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Siento un cansancio extremo y tengo sueño la mayor parte del día",
+		"numero": "7",
+		"respuestas": "multi",
+		"frecuencia": "3",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "He tenido discusiones frecuentes en los lugares a los que asisto",
+		"numero": "8",
+		"respuestas": "multi-estres-a",
+		"cierto": "4",
+		"niEnCuenta": "2",
+		"falso": "0"
+	},
+	{
+		"pregunta": "Cuando me enfrento a un problema me siento atrapado y sin salida",
+		"numero": "9",
+		"respuestas": "multi-estres-a",
+		"cierto": "4",
+		"niEnCuenta": "2",
+		"falso": "0"
+	},
+	{
+		"pregunta": "He notado que me es difícil tomar decisiones",
+		"numero": "10",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Cuando no cumplo mis metas me siento derrotado y frustrado",
+		"numero": "11",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	}
+	,
+	{
+		"pregunta": "Me he enfermado frecuentemente",
+		"numero": "12",
+		"respuestas": "multi",
+		"frecuencia": "3",
+		"ocasiones": "2",
+		"nunca": "0"
+	}
+	,
+	{
+		"pregunta": "Me he vuelto más irritable y cualquier situación irrelevante me molesta y exaspera",
+		"numero": "13",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	}
+]

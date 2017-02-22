@@ -1,0 +1,82 @@
+[
+	{
+		"pregunta": "Me he notado extramademente activo y con mayor seguridad en mi",
+		"numero": "1",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "1"
+	},
+	{
+		"pregunta": "Hablo mucho y más rápido de lo habitual",
+		"numero": "2",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "He sentido una tristeza tan profunda que creo enloquecer",
+		"numero": "3",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "1"
+	},
+	{
+		"pregunta": "Hablo mucho, toco diferentes temas y de pronto y sin dame cuenta comienzao a llorar o me entristezco",
+		"numero": "4",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "1"
+	},
+	{
+		"pregunta": "He gastado tanto dinero que me ha ocasionado problemas tanto a mi como a mi familia",
+		"numero": "5",
+		"respuestas": "multi",
+		"frecuencia": "6",
+		"ocasiones": "2",
+		"nunca": "1"
+	},
+	{
+		"pregunta": "He identificado que tengo un mayor apetito sexual",
+		"numero": "6",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "He tenido periodos en los que soy más social o extrovertido de lo habitual",
+		"numero": "7",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Tengo conductas que los demás identifican como arriesgadas o exageradas",
+		"numero": "8",
+		"respuestas": "multi",
+		"frecuencia": "6",
+		"ocasiones": "2",
+		"nunca": "1"
+	},
+	{
+		"pregunta": "Tengo más energía de lo habitual y necesito dormir poco",
+		"numero": "9",
+		"respuestas": "multi",
+		"frecuencia": "6",
+		"ocasiones": "2",
+		"nunca": "1"
+	},
+	{
+		"pregunta": "Me entristezco con facilidad ante cosas que creía superadas",
+		"numero": "10",
+		"respuestas": "multi",
+		"frecuencia": "6",
+		"ocasiones": "2",
+		"nunca": "1"
+	}
+]

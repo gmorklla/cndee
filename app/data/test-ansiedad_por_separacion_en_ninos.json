@@ -1,0 +1,82 @@
+[
+	{
+		"pregunta": "La edad del chico está entre los seis y 17 años",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño llora cada que va a la escuela porque no quiere dejar a sus padres",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño no quiere dormirse a menos que este alguno de los padres con él",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Se queja constantemente de tener dolor de cabeza, estomago, mareos o nauseas cuando tiene que estar lejos de sus padres",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño  lleva con estos síntomas más de cuatro semanas",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Al niño se le dificulta jugar con otros niños por miedo a dejar de ver a los padres",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño constantemente habla sobre la posibilidad de que mueran sus padres o seres queridos",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño presenta constantes pesadillas en donde sueña que algo malo le sucede a sus  padres",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Es difícil que el niño respete límites que hay en casa",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando el niño no obtiene lo que quiere, llora y hace berrinche",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño ha pasado por la separación de sus padres, accidentes o muerte de algún miembro de la familia",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño puede quedarse en casa sin llorar siempre y cuando le den lo que él quiere",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El niño dice escuchar voces o ver fantasmas que le dicen que debe hacer",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El chico toma medicamentos o se sabe que ha probado algún tipo de droga",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Del colegio le dicen que esta distraído, preocupado y ha bajado sus calificaciones",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "El chico cree que es vigilado de manera constante por todos y que le quieren hacer daño a él o a sus familiares",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	}
+]

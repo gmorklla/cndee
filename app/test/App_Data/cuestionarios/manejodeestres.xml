@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>Recientemente he tenido cambios importantes o trascendentes en mi vida</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)Casi no lo he tomado en cuenta</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He cambiado mi manera de convivir con mi familia y/o amigos.</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)Casi no lo he tomado en cuenta</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He tenido cambios en mi alimentación (comer en exceso o comer poco).</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Mi deseo sexual ha disminuido en cantidad e interés.</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Presento dificultad para conciliar el sueño y cuando duermo siento que no descanso.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>No tolero situaciones que antes me eran insignificantes.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Siento un cansancio extremo y tengo sueño la mayor parte del día.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He tenido discusiones frecuentes en los lugares a los que asisto.</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)Casi no lo he tomado en cuenta</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Cuando me enfrento a un problema me siento atrapado y sin salida.</texto>
+		<respuesta>
+			<texto>a)Cierto</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)Casi no lo he tomado en cuenta</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Falso</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He notado que me es difícil tomar decisiones.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Cuando no cumplo mis metas me siento derrotado y frustrado.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me he enfermado frecuentemente.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>3</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me he vuelto más irritable y cualquier situación irrelevante me molesta y exaspera.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocaciones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

@@ -1,0 +1,67 @@
+[
+	{
+		"pregunta": "Me desespero fácilmente",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me molesta que no se hagan las cosas cuando lo deseo",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Las decisiones las tomo siempre yo",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Desconfío de las personas",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Dicen los demás que grito mucho",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me gusta dominar toda situación",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me enojo fácilmente y todo me irrita",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Pierdo fácilmente el control",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo la necesidad de controlar a mi pareja",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Constantemente critico a mi pareja",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me gusta tomar la última decisión",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Algunas personas se ofenden con mi franqueza",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me disgusta terriblemente sentir que pierdo",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	}
+]

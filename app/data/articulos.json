@@ -1,0 +1,74 @@
+[
+		{
+			"url" : "como_identificar_si_tu_hijo_esta_viviendo_bullying_escolar",
+			"titulo" : "¿Cómo identificar si tu hijo está viviendo bullying escolar?",
+			"entrada" : "Todos hemos escuchado y hablado del “bullying”...",
+			"cuerpo" : "views/articulos/como_identificar_si_tu_hijo_esta_viviendo_bullying_escolar.html",
+			"autor": "",
+			"hashtag" : ["bullying"],
+			"key" : 1
+		},
+		{
+			"url" : "sindrome_de_la_rana_hervida",
+			"titulo" : "Síndrome de la rana hervida",
+			"entrada" : "Seguro te preguntarás, ¿qué es esto del “Síndrome de la rana hervida”?...",
+			"cuerpo" : "views/articulos/sindrome_de_la_rana_hervida.html",
+			"autor": "Psic. Gustavo Felipe Ramírez Pérez",
+			"hashtag" : ["sindromeRanaHervida"],
+			"key" : 2
+		},
+		{
+			"url" : "belleza",
+			"titulo" : "Belleza",
+			"entrada" : "Así como la preocupación constante por la apariencia física puede llegar a ser tan perturbadora que constituye...",
+			"cuerpo" : "views/articulos/belleza.html",
+			"autor": "Psic. Nancy Vargas Gama",
+			"hashtag" : ["belleza", "trastorno"],
+			"key" : 3
+		},
+		{
+			"url" : "factores_psicologicos_y_obesidad",
+			"titulo" : "Factores psicológicos y obesidad",
+			"entrada" : "Desde 1980 los índices de sobre peso y obesidad se han triplicado en México, especialmente entre adultos...",
+			"cuerpo" : "views/articulos/factores_psicologicos_y_obesidad.html",
+			"autor": "Psic. Anabel Robles Rodríguez",
+			"hashtag" : ["obesidad"],
+			"key" : 4
+		},
+		{
+			"url" : "la_idea_de_la_soledad",
+			"titulo" : "La idea de la soledad",
+			"entrada" : "En uno de los estudios publicados de la revista Neurología, Neurocirugía y Psiquiatría, se describen cómo las personas...",
+			"cuerpo" : "views/articulos/la_idea_de_la_soledad.html",
+			"autor": "",
+			"hashtag" : ["soledad", "terceraEdad"],
+			"key" : 5
+		},
+		{
+			"url" : "amar_con_locura_o_con_cordura",
+			"titulo" : "¿Amar con locura o con cordura?",
+			"entrada" : "Seguramente ha escuchado y muy probablemente también dicho frases como: “Eres lo más importante en mi vida”...",
+			"cuerpo" : "views/articulos/amar_con_locura_o_con_cordura.html",
+			"autor": "",
+			"hashtag" : ["amor", "pareja"],
+			"key" : 6
+		},
+		{
+			"url" : "relaciones_con_casados",
+			"titulo" : "Relaciones con casados, ¿está bien?",
+			"entrada" : "El amor llega cuando menos te lo esperas, pero también con quien menos te lo imaginas. Es el caso de las personas que...",
+			"cuerpo" : "views/articulos/relaciones_con_casados.html",
+			"autor": "",
+			"hashtag" : ["relaciones", "amantes"],
+			"key" : 7
+		},
+		{
+			"url" : "problemas_de_aprendizaje_o_falta_de_motivacion",
+			"titulo" : "¿Problemas de aprendizaje o falta de motivación?",
+			"entrada" : "'Pero qué inútil eres', 'tragas como cerdo', 'eres un tonto', 'si no te portas bien, te voy a dejar de querer'...",
+			"cuerpo" : "views/articulos/problemas_de_aprendizaje_o_falta_de_motivacion.html",
+			"autor": "",
+			"hashtag" : ["aprendizaje", "motivacion"],
+			"key" : 8
+		}									
+]

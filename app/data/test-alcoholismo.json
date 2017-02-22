@@ -1,0 +1,62 @@
+[
+	{
+		"pregunta": "¿He fallado en la responsabilidad de mi trabajo o de mi casa por consumir alcohol?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Sólo cuando bebo me siento bien físicamente y emocionalmente?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Bebo para distraerme, para olvidar los problemas  o para tranquilizarme?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Después de tomar tengo nauseas, temblores, cansancio, irritabilidad o variabilidad en el estado de animo?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Cuando reduzco la cantidad de alcohol me siento mal físicamente?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Me he llegado a sentir avergonzado  de mi conducta cuando bebo?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿He intentado dejar de beber sin éxito?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿He seguido bebiendo a pesar de que tengo problemas con mi familia y/o amigos?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Siento la necesidad de tomar en una hora específica del día o la semana?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Me siento cansado o intranquilo cuando no he consumido alcohol?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿He tenido la necesidad de beber a escondidas?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿He sufrido accidentes tras haber ingerido bebidas alcohólicas?",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"pregunta": "La persona cree escuchar, ver, sentir u oler a personas, objetods, animales o cosas que los demás no ven y reconocen como irreales",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "La persona presenta un lenguaje en donde no hay coherencia, puede hablar de temas diferentes entremezclados o hacer alusión a ser perseguido o tener poderes especiales",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Presenta una disminución en la actividad física, se queda quieto por preiodos prolongados, perdiendo también la capacidad de atención",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Descuida su higiene personal por varios días o semanas",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Está agitado de manera constante y es incapaz de organizarse en cualquier actividad",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "No muestra emociones como tristeza, alegría o enojo",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tiene una incapacidad para disfrutar cualquier actividad",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Refiere sentirse en un mundo extraño, como no perteneciente a él",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "La persona presenta depresión severa",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	}
+]

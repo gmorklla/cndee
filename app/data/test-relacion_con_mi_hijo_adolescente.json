@@ -1,0 +1,52 @@
+[
+	{
+		"pregunta": "Cuando mi hijo adolescente presenta algún problema en sus estudios, o de conducta, ¿pierdo el control y suelo gritarle o agredirlo?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "A veces estoy tan estresado por mis problemas personales que me desquito con mis hijos cuando éstos comenten algún error",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando mi hijo comete alguna falla le recuerdo lo inepto que es",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me fijo en los errores que comete y casi nunca le reconozco sus logros",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Mi pareja y yo tenemos ideas diferentes en cuanto a la educación de los hijos y ellos se dan cuenta",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Con respecto a los castigos y premios que les imponemos a los hijos, a veces los cumplimos y otras no",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Lo único que me interesa con respecto a mi hijo es que cumpla con sus estudios",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Me interesa que mi hijo tenga los mismos intereses que los míos y no estoy de acuerdo en que piense diferente",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Las reglas en casa son cambiantes y poco claras",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Le exijo a mi hijo más de lo que realmente puede ofrecer",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	}
+]

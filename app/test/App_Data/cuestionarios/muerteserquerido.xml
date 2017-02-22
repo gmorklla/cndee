@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+	<pregunta>
+		<texto>Creo que he perdido parte de mi vida con la muerte de mi ser querido.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Extraño mucho la convivencia y esto me trae recuerdos tristes.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Daría cualquier cosa por tenerlo, verlo y poderlo tocar nuevamente.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Ya no quiero vivir sabiendo que ya no está junto a mí.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>En ocasiones escucho que me habla, que me toca o creo verlo claramente.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Siento mucha tristeza aunque sabía que algún día pasaría.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>He pensado en suicidarme para reunirme con el (ella).</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Pienso que yo fui responsable de su muerte.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Siento rabia contra Dios y/o la vida por habérselo llevado.</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>1</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Me he sentido triste pero sin tanto dolor cuando lo recuerdo</texto>
+		<respuesta>
+			<texto>a)Frecuentemente</texto>
+			<valor>4</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)En ocasiones</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Nunca</texto>
+			<valor>0</valor>
+		</respuesta>
+	</pregunta>
+	<pregunta>
+		<texto>Visito constantemente los lugares que me lo recuerdan y me siento:</texto>
+		<respuesta>
+			<texto>a)Mejor al recordarle</texto>
+			<valor>0</valor>
+		</respuesta>
+		<respuesta>
+			<texto>b)Reflexivo y con ganas de desahogo</texto>
+			<valor>2</valor>
+		</respuesta>
+		<respuesta>
+			<texto>c)Peor, mal y desesperado</texto>
+			<valor>4</valor>
+		</respuesta>
+	</pregunta>
+</preguntas>

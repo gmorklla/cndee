@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+  <pregunta>
+    <texto>Sientes opresión en el pecho, temblores y palpitaciones.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes que te falta el aliento y una sensación de ahogo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Presentas mareos y sensación de desmayo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes miedo de volverte loco/a.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Te angustia pensar en la muerte o tienes la sensación de que puedes morir.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes náuseas y dolor abdominal.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes miedo sobre lo que puede suceder en el futuro.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes que lo que vives es irreal o que estas fuera de ti mismo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes hormigueo o adormecimiento en brazos o piernas.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes escalofríos, sofocación o sudoración excesiva en manos o pies.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Presentas molestias estomacales o sensación de ahogo cada que intentas comer.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Estos síntomas se presentan de repente y aumentan en los primeros minutos y después disminuyen.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>No soportas salir de casa solo por miedo a sentirte mal.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has vivido algún evento difícil o traumático antes de que se presentara el primer ataque.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_14</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Estas al pendiente de cualquier dolor o malestar físico que sientas y piensas que es una señal de que volverás a sentirse mal.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_15</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has consumido algún medicamento o droga antes de que se presentarán los síntomas.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_16</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Te han diagnosticado alguna enfermedad recientemente.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_17</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Has presentado algunos de estos síntomas: vértigo, desmayo, pérdida de la memoria o dolores de cabeza intensos.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_18</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Llevas con estos síntomas de una a tres semanas.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_19</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Llevas más de un mes con estos síntomas.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_20</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Constantemente estas preocupado por todo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_21</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuando escuchas que alguien se enferma o presenta problemas, estos los sientes como tuyos.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>_22</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+</preguntas>
+

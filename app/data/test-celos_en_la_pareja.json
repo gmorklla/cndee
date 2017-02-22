@@ -1,0 +1,122 @@
+[
+	{
+		"pregunta": "En tú relación de pareja se toman el tiempo para estar juntos y salir sin los hijos",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando algo te molesta de tu pareja procuras aclararlo en el momento cuidando no agredirle",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Acostumbras revisar el celular, cartera o bolsa de tu pareja",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Si tienes un disgusto con tu pareja y  quiere salir de casa para evitar la pelea, intentas detenerlo de cualquier forma",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Evitas hacer demostraciones de afecto a tu pareja por la idea de que se puede aprovechar del amor que le tienes",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando te enojas con la pareja le dejas de hablar o buscas la manera de desquitarte después",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Acostumbras llorar o amenazar a tu pareja si no te complace en lo que desea",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Amenazas con suicidarte si la pareja intenta dejarte",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuentas con amigos y una buena relación familiar  (padres, hermanos u otros familiares)",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes  metas o proyectos individuales que buscas conseguir",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes un gran cariño por tu pareja, pero ya no te atrae sexualmente",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cada que sientes que la pareja te puede abandonar te llenas de angustia y desesperación",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Procuras acercarte a tu pareja sólo cuando tienes deseos sexuales o cuando te sientes sólo",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Actualmente tienes empleo",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Si tuviste problemas con tu pareja dejas de tener relaciones sexuales",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Conoces los sueños o proyectos de tu pareja",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Constantemente le preguntas a tu pareja si en verdad te ama",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Si ya viviste una relación donde te fueron infiel, piensas que tu pareja actual hará los mismo",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Crees que tu pareja no te ama y que sólo está contigo por los hijos o por lastima",
+		"numero": "19",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando sales a pasear estás constantemente al pendiente de a quién ve tu pareja",
+		"numero": "20",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes que el amor en la relación de pareja puede ayudarte a superar cualquier conflicto",
+		"numero": "21",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando tu pareja tiene algún problema personal procuras alejarte hasta que lo resuelva",
+		"numero": "22",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes el deseo de acompañar a tu pareja en cualquier conflicto que se le presente",
+		"numero": "23",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes que la vida se te acabaría si tu pareja te llegará a abandonar",
+		"numero": "24",
+		"respuestas": "trueFalse"
+	}
+]

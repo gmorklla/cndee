@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<preguntas>
+  <pregunta>
+    <texto>En tú relación de pareja se toman el tiempo para estar juntos y salir sin los hijos.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuando algo te molesta de tu pareja procuras aclararlo en el momento cuidando no agredirle.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Acostumbras revisar el celular, cartera o bolsa de tu pareja.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Si tienes un disgusto con tu pareja y  quiere salir de casa para evitar la pelea, intentas detenerlo de cualquier forma.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Evitas hacer demostraciones de afecto a tu pareja por la idea de que se puede aprovechar del amor que le tienes.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuando te enojas con la pareja le dejas de hablar o buscas la manera de desquitarte después.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Acostumbras llorar o amenazar a tu pareja si no te complace en lo que desea.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Amenazas con suicidarte si la pareja intenta dejarte.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuentas con amigos y una buena relación familiar  (padres, hermanos u otros familiares).</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Tienes  metas o proyectos individuales que buscas conseguir.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes un gran cariño por tu pareja, pero ya no te atrae sexualmente.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>100</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cada que sientes que la pareja te puede abandonar te llenas de angustia y desesperación.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Procuras acercarte a tu pareja sólo cuando tienes deseos sexuales o cuando te sientes sólo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>100</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Actualmente tienes empleo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Si tuviste problemas con tu pareja dejas de tener relaciones sexuales.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Conoces los sueños o proyectos de tu pareja.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Constantemente le preguntas a tu pareja si en verdad te ama.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Si ya viviste una relación donde te fueron infiel, piensas que tu pareja actual hará los mismo.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Crees que tu pareja no te ama y que sólo está contigo por los hijos o por lastima.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuando sales a pasear estás constantemente al pendiente de a quién ve tu pareja.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes que el amor en la relación de pareja puede ayudarte a superar cualquier conflicto.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuando tu pareja tiene algún problema personal procuras alejarte hasta que lo resuelva.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>100</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes el deseo de acompañar a tu pareja en cualquier conflicto que se le presente.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>1000</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+  <pregunta>
+    <texto>Sientes que la vida se te acabaría si tu pareja te llegará a abandonar.</texto>
+    <respuesta>
+      <texto>Si</texto>
+      <valor>10</valor>
+    </respuesta>
+    <respuesta>
+      <texto>No</texto>
+      <valor>0</valor>
+    </respuesta>
+  </pregunta>
+</preguntas>
+

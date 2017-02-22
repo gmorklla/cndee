@@ -1,0 +1,107 @@
+[
+	{
+		"pregunta": "Sientes opresión en el pecho, temblores y palpitaciones",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes que te falta el aliento y una sensación de ahogo",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Presentas mareos y sensación de desmayo",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes miedo de volverte loco/a",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Te angustia pensar en la muerte o tienes la sensación de que puedes morir",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes náuseas y dolor abdominal",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes miedo sobre lo que puede suceder en el futuro",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes que lo que vives es irreal o que estas fuera de ti mismo",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Sientes hormigueo o adormecimiento en brazos o piernas",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tienes escalofríos, sofocación o sudoración excesiva en manos o pies",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Presentas molestias estomacales o sensación de ahogo cada que intentas comer",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Estos síntomas se presentan de repente y aumentan en los primeros minutos y después disminuyen",
+		"numero": "12",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "No sales de casa solo por miedo a sentirte mal",
+		"numero": "13",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has vivido algún evento difícil o traumático antes de que se presentara el primer ataque",
+		"numero": "14",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Estas al pendiente de cualquier dolor o malestar físico que sientas y piensas que es una señal de que volverás a sentirse mal",
+		"numero": "15",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Has consumido algún alguna droga antes de que se presentarán los síntomas",
+		"numero": "16",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Te han diagnosticado alguna enfermedad recientemente",
+		"numero": "17",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Llevas con estos síntomas de una a tres semanas",
+		"numero": "18",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Llevas más de un mes con estos síntomas",
+		"numero": "19",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Constantemente estas preocupado por todo",
+		"numero": "20",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando escuchas que alguien se enferma o presenta problemas, estos los sientes como tuyos",
+		"numero": "21",
+		"respuestas": "trueFalse"
+	}
+]

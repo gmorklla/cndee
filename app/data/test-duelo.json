@@ -1,0 +1,90 @@
+[
+	{
+		"pregunta": "Creo que he perdido parte de mi vida con la muerte de mi ser querido",
+		"numero": "1",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Extraño mucho la convivencia y esto me trae recuerdos tristes",
+		"numero": "2",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Daría cualquier cosa por tenerlo, verlo y poderlo tocar nuevamente",
+		"numero": "3",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Ya no quiero vivir sabiendo que ya no está junto a mí",
+		"numero": "4",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "En ocasiones escucho que me habla, que me toca o creo verlo claramente",
+		"numero": "5",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Siento mucha tristeza aunque sabía que algún día pasaría",
+		"numero": "6",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "He pensado en suicidarme para reunirme con él (ella)",
+		"numero": "7",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Pienso que su muerte fue por mi culpa",
+		"numero": "8",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Siento rabia contra Dios y7o la vida por habérselo llevado",
+		"numero": "9",
+		"respuestas": "multi",
+		"frecuencia": "2",
+		"ocasiones": "1",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Me he sentido triste pero sin tanto dolor cuando lo recuerdo",
+		"numero": "10",
+		"respuestas": "multi",
+		"frecuencia": "4",
+		"ocasiones": "2",
+		"nunca": "0"
+	},
+	{
+		"pregunta": "Visito constantemente los lugares que me lo recuerdan y me siento",
+		"numero": "11",
+		"respuestas": "multi-duelo",
+		"mejor": "0",
+		"reflexivo": "2",
+		"peor": "4"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"pregunta": "Ingiero una gran cantidad de alimentos en poco tiempo",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Después de comer me provoco el vómito para evitar subir de peso",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Hago ejercicio para compensar lo que he comido",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Ingiero más alimentos que la mayoría de las personas en el mismo periodo de tiempo",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Uso laxantes, enemas u otros fármacos para bajar de peso",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Le doy mayor importancia a mi silueta o peso corporal que a otros ámbitos de mi vida como la escuela, los amigos, trabajo o familia",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Tengo cambios de humor cuando no puedo vomitar lo que he comido",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	}
+]

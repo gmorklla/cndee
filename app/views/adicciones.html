@@ -1,0 +1,72 @@
+<div class="row marketing">
+  <div class="col-md-12 s1">
+    <div class="row saludRow">
+      <ng-include src="'views/redes.html'"></ng-include>
+      <div class="col-md-12 saludEmocional adicciones">
+        <h1 class="hidden-xs hidden-sm">Adicciones</h1>
+        <img class="hidden-xs hidden-sm" src="images/headsLine-md.png" alt="">
+        <p class="hidden-md hidden-lg"><img src="images/headsLine-xs.png" alt=""></p>
+      </div>
+      <div class="col-md-12 hidden-md hidden-lg titleInteriores-xs">
+        <h1>Adicciones</h1>
+        <p class="hidden-md hidden-lg"><img src="images/headsLine-xs.png" alt=""></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-12 saludBtns">
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group" dir-paginate="articuloAdicciones in adiccionesContent | itemsPerPage: cuantos" pagination-id="adiccionesItems" >
+        <button type="button" class="btn btn-default" ui-sref="adicciones.articulo({ articuloId: articuloAdicciones.url })">
+          <span>{{articuloAdicciones.titulo}}</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <dir-pagination-controls class="paginacionSalud col-md-12 col-sm-12 col-xs-12" pagination-id="adiccionesItems" max-size="5"></dir-pagination-controls>  
+
+  <div class="col-md-12 saludJum">
+    <div class="jumbotron">
+      <div class="container">
+        <h1>¿Qué son las adicciones?</h1>
+        <hr>
+        <p><i>Se considera adicción a una enfermedad crónica y recurrente del cerebro que se caracteriza por una búsqueda patológica de la recompensa y/o alivio a través del uso de una sustancia u otras conductas.</i></p>
+      </div>
+    </div>
+
+  </div>  
+
+  <div class="hidden-xs hidden-sm col-md-12 barraOC">
+    <div class="row">
+      <div class="barraO">
+        <p><a ui-sref="salud-emocional">Salud Emocional</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="sexualidad">Sexualidad</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="pareja">Pareja</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="adicciones">Adicciones</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="familia">Familia</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="ninos">Niños</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="violencia">Violencia</a></p>
+      </div>
+      <div class="barraO">
+        <p><a ui-sref="tercera-edad">Tercera Edad</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-12 barraSex">
+    <p class="hidden-xs hidden-sm">Tienes dudas sobre algún tema de Sexualidad, ve nuestro <span>CHAT de SEXUALIDAD</span> todos los <span>martes y jueves</span> de 16:00 a 17:00 hrs, a través de: <a href="http://www.simiinforma.com.mx/" target="_blank">www. siminforma.com.mx</a></p>
+    <p class="hidden-md hidden-lg"><span>CHAT de SEXUALIDAD</span> martes y jueves 4:00 - 5:00 hrs <a href="http://www.simiinforma.com.mx/" target="_blank">www. siminforma.com.mx</a></p>    
+  </div>   
+</div>

@@ -1,0 +1,57 @@
+[
+	{
+		"pregunta": "¿Llevas más de seis meses sin tener erecciones firmes?",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Padeces alguna enfermedad?",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿En las mañanas cuando despiertas se presenta una erección?",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Solamente masturbándote consigues la erección?",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tienes erecciones con otra(s) persona(s) que no es tu pareja?",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Discutes a menudo con tu pareja?",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Tienes problemas en el trabajo, como demasiada presión, estrés, conflictos con tu superior, etc.?",
+		"numero": "7",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Cuándo tienes fantasías sexuales, consigues una erección?",
+		"numero": "8",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Sientes dolor cuando penetras a tu pareja?",
+		"numero": "9",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Consumes algún tipo de droga o medicamento?",
+		"numero": "10",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "¿Has sufrido algún accidente en donde te hayas lastimado la columna, pubis o el mismo pene?",
+		"numero": "11",
+		"respuestas": "trueFalse"
+	}
+]

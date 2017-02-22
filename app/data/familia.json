@@ -1,0 +1,26 @@
+[
+		{
+			"url" : "diabetes_y_familia",
+			"titulo" : "Diabetes y familia"
+		},
+		{
+			"url" : "que_es_la_familia",
+			"titulo" : "¿Qué es la familia?"
+		},
+		{
+			"url" : "como_puedo_ayudar_a_un_familiar_con_depresion",
+			"titulo" : "¿Cómo puedo ayudar a un familiar con depresión?"
+		},
+		{
+			"url" : "como_construir_un_escudo_contra_las_adicciones",
+			"titulo" : "¿Cómo construir un escudo contra las adicciones?"
+		},
+		{
+			"url" : "soy_bebedor_social_o_alcoholico",
+			"titulo" : "¿Soy bebedor social o alcohólico?"
+		},
+		{
+			"url" : "es_recomendable_obligar_a_un_adicto_a_internarse",
+			"titulo" : "¿Es recomendable obligar a un adicto a internarse?"
+		}
+]

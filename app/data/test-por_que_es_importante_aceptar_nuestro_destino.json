@@ -1,0 +1,32 @@
+[
+	{
+		"pregunta": "Considero que todo lo que me ha pasado en la vida, situaciones buenas o malas, son producto del destino o la suerte",
+		"numero": "1",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Creo que es imposible cambiar el destino",
+		"numero": "2",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando he pasado por alguna situación difícil en mi vida, creo que el hacer plegarias es la única solución",
+		"numero": "3",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Constantemente pienso que las situaciones que viví en el pasado, deberían de haber sido distintas si la suerte hubiera estado de mi lado",
+		"numero": "4",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Creo que las situaciones malas que me han ocurrido en la vida en gran medida son debido a la envidia y los malos deseos de terceras personas",
+		"numero": "5",
+		"respuestas": "trueFalse"
+	},
+	{
+		"pregunta": "Cuando vivo alguna situación desagradable o mala para mí, me siento desamparado(a)",
+		"numero": "6",
+		"respuestas": "trueFalse"
+	}
+]

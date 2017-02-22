@@ -1,0 +1,37 @@
+<div ng-controller="RedesCtrl" class="visible-xs visible-sm hidden-md hidden-lg col-md-12 redes">
+    <ul class="row">
+        <li class="pull-left col-xs-4"><a class="hvr-pop" onclick="window.open('/Chat/Chat.aspx', '_blank', 'toolbar=no, titlebar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=290, height=430');"><i class="fa fa-comment fa-2x"></i></a></li>
+        <li class="pull-left col-xs-4"><a class="hvr-pop" href="https://twitter.com/cndeemx" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+        <li class="pull-left col-xs-4"><a class="hvr-pop" href="https://www.facebook.com/CNDEE" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+    </ul>
+</div>
+<div class="hidden-xs hidden-sm visible-md visible-lg col-md-1 redes">
+    <ul>
+        <li class="pull-left"><a class="hvr-pop" onclick="window.open('/Chat/Chat.aspx', '_blank', 'toolbar=no, titlebar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=290, height=430');"><i class="fa fa-comment fa-2x"></i></a></li>       
+        <li class="pull-left" ng-mouseover="getRedes()"><a class="hvr-pop" href=""><i class="fa fa-share-alt fa-2x"></i></a></li>
+    </ul>
+</div>
+<div class="hidden-xs hidden-sm col-md-1 faceTwitter" ng-mouseover="yaEntroF()" ng-mouseleave="hideRedes()">
+    <ul class="showRedes">
+        <li class="pull-left"><a class="hvr-pop" href="https://www.facebook.com/CNDEE" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+        <li class="pull-left"><a class="hvr-pop tweet" href="https://twitter.com/cndeemx" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+    </ul>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="aviso" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Lamentamos las inconveniencias</h4>
+      </div>
+      <div class="modal-body">
+        <p>Por el momento el servicio de chat está fuera de servicio, estamos trabajando para reinstalarlo a la brevedad y seguirles brindando el apoyo</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
